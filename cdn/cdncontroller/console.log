@@ -1,0 +1,5192 @@
+Deleted all the cached data successfully
+Edge Server New Delhi
+Edge Server Berlin
+Edge Server Montreal
+Edge Server New York
+Deleted all the configured servers
+Controller listening on port 3001
+Deleted all the configured servers
+New Edge servers created
+reqCounter 1
+reqPerServerCount 7
+defaultEdge count0 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816b,
+  zone: 'New Delhi',
+  la: 28.64,
+  lo: 77.21,
+  url: '../edgeservers/',
+  bucket: 'e1-server',
+  __v: 0
+}
+start 2
+end 7
+Content of file css/bootstrap.min.css
+Round Robin algorithm selected Edge Server New Delhi
+reqCounter 2
+reqPerServerCount 7
+defaultEdge count0 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816b,
+  zone: 'New Delhi',
+  la: 28.64,
+  lo: 77.21,
+  url: '../edgeservers/',
+  bucket: 'e1-server',
+  __v: 0
+}
+start 3
+end 7
+Content of file css/style.css
+Round Robin algorithm selected Edge Server New Delhi
+reqCounter 3
+reqPerServerCount 7
+defaultEdge count0 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816b,
+  zone: 'New Delhi',
+  la: 28.64,
+  lo: 77.21,
+  url: '../edgeservers/',
+  bucket: 'e1-server',
+  __v: 0
+}
+start 4
+end 7
+Content of file css/responsive.css
+Round Robin algorithm selected Edge Server New Delhi
+reqCounter 4
+reqPerServerCount 7
+defaultEdge count0 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816b,
+  zone: 'New Delhi',
+  la: 28.64,
+  lo: 77.21,
+  url: '../edgeservers/',
+  bucket: 'e1-server',
+  __v: 0
+}
+start 5
+end 7
+Content of file css/jquery.mCustomScrollbar.min.css
+Round Robin algorithm selected Edge Server New Delhi
+reqCounter 5
+reqPerServerCount 7
+defaultEdge count0 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816b,
+  zone: 'New Delhi',
+  la: 28.64,
+  lo: 77.21,
+  url: '../edgeservers/',
+  bucket: 'e1-server',
+  __v: 0
+}
+start 6
+end 7
+Content of file css/owl.carousel.min.css
+Round Robin algorithm selected Edge Server New Delhi
+reqCounter 6
+reqPerServerCount 7
+defaultEdge count1 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816c,
+  zone: 'Berlin',
+  la: 52.52,
+  lo: 13.4,
+  url: '../edgeservers/',
+  bucket: 'e2-server',
+  __v: 0
+}
+start 7
+end 21
+Content of file css/owl.theme.default.min.css
+Round Robin algorithm selected Edge Server Berlin
+reqCounter 7
+reqPerServerCount 7
+defaultEdge count1 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816c,
+  zone: 'Berlin',
+  la: 52.52,
+  lo: 13.4,
+  url: '../edgeservers/',
+  bucket: 'e2-server',
+  __v: 0
+}
+start 8
+end 21
+Content of file images/logo.png
+Round Robin algorithm selected Edge Server Berlin
+reqCounter 8
+reqPerServerCount 7
+defaultEdge count1 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816c,
+  zone: 'Berlin',
+  la: 52.52,
+  lo: 13.4,
+  url: '../edgeservers/',
+  bucket: 'e2-server',
+  __v: 0
+}
+start 9
+end 21
+Content of file images/fb-icon.png
+Round Robin algorithm selected Edge Server Berlin
+reqCounter 9
+reqPerServerCount 7
+defaultEdge count1 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816c,
+  zone: 'Berlin',
+  la: 52.52,
+  lo: 13.4,
+  url: '../edgeservers/',
+  bucket: 'e2-server',
+  __v: 0
+}
+start 10
+end 21
+Content of file images/twitter-icon.png
+Round Robin algorithm selected Edge Server Berlin
+reqCounter 10
+reqPerServerCount 7
+defaultEdge count1 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816c,
+  zone: 'Berlin',
+  la: 52.52,
+  lo: 13.4,
+  url: '../edgeservers/',
+  bucket: 'e2-server',
+  __v: 0
+}
+start 11
+end 21
+Content of file images/instagram-icon.png
+Round Robin algorithm selected Edge Server Berlin
+reqCounter 11
+reqPerServerCount 7
+defaultEdge count1 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816c,
+  zone: 'Berlin',
+  la: 52.52,
+  lo: 13.4,
+  url: '../edgeservers/',
+  bucket: 'e2-server',
+  __v: 0
+}
+start 12
+end 21
+Content of file images/linkedin-icon.png
+Round Robin algorithm selected Edge Server Berlin
+reqCounter 12
+reqPerServerCount 7
+defaultEdge count1 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816c,
+  zone: 'Berlin',
+  la: 52.52,
+  lo: 13.4,
+  url: '../edgeservers/',
+  bucket: 'e2-server',
+  __v: 0
+}
+start 13
+end 21
+Content of file js/jquery.min.js
+Round Robin algorithm selected Edge Server Berlin
+reqCounter 13
+reqPerServerCount 7
+defaultEdge count1 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816c,
+  zone: 'Berlin',
+  la: 52.52,
+  lo: 13.4,
+  url: '../edgeservers/',
+  bucket: 'e2-server',
+  __v: 0
+}
+start 14
+end 21
+Content of file js/popper.min.js
+Round Robin algorithm selected Edge Server Berlin
+reqCounter 14
+reqPerServerCount 7
+defaultEdge count1 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816c,
+  zone: 'Berlin',
+  la: 52.52,
+  lo: 13.4,
+  url: '../edgeservers/',
+  bucket: 'e2-server',
+  __v: 0
+}
+start 15
+end 21
+Content of file js/bootstrap.bundle.min.js
+Round Robin algorithm selected Edge Server Berlin
+reqCounter 15
+reqPerServerCount 7
+defaultEdge count1 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816c,
+  zone: 'Berlin',
+  la: 52.52,
+  lo: 13.4,
+  url: '../edgeservers/',
+  bucket: 'e2-server',
+  __v: 0
+}
+start 16
+end 21
+Content of file js/jquery-3.0.0.min.js
+Round Robin algorithm selected Edge Server Berlin
+reqCounter 16
+reqPerServerCount 7
+defaultEdge count1 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816c,
+  zone: 'Berlin',
+  la: 52.52,
+  lo: 13.4,
+  url: '../edgeservers/',
+  bucket: 'e2-server',
+  __v: 0
+}
+start 17
+end 21
+Content of file js/plugin.js
+Round Robin algorithm selected Edge Server Berlin
+reqCounter 17
+reqPerServerCount 7
+defaultEdge count1 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816c,
+  zone: 'Berlin',
+  la: 52.52,
+  lo: 13.4,
+  url: '../edgeservers/',
+  bucket: 'e2-server',
+  __v: 0
+}
+start 18
+end 21
+Content of file js/jquery.mCustomScrollbar.concat.min.js
+Round Robin algorithm selected Edge Server Berlin
+reqCounter 18
+reqPerServerCount 7
+defaultEdge count1 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816c,
+  zone: 'Berlin',
+  la: 52.52,
+  lo: 13.4,
+  url: '../edgeservers/',
+  bucket: 'e2-server',
+  __v: 0
+}
+start 19
+end 21
+Content of file js/custom.js
+Round Robin algorithm selected Edge Server Berlin
+reqCounter 19
+reqPerServerCount 7
+defaultEdge count1 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816c,
+  zone: 'Berlin',
+  la: 52.52,
+  lo: 13.4,
+  url: '../edgeservers/',
+  bucket: 'e2-server',
+  __v: 0
+}
+start 20
+end 21
+Content of file videos/video1.mp4
+Round Robin algorithm selected Edge Server Berlin
+File successfully downloaded to ..\edgeservers\e2-server\css\owl.theme.default.min.css
+css/owl.theme.default.min.css is served from Berlin edge server successfully
+Origin File Name: css/owl.theme.default.min.css
+Type of file: text/css
+fileName css/owl.theme.default.min.css
+contentType text/css
+File successfully downloaded to ..\edgeservers\e1-server\css\style.css
+css/style.css is served from New Delhi edge server successfully
+Origin File Name: css/style.css
+Type of file: text/css
+fileName css/style.css
+contentType text/css
+File successfully downloaded to ..\edgeservers\e1-server\css\responsive.css
+File successfully downloaded to ..\edgeservers\e1-server\css\owl.carousel.min.css
+File successfully downloaded to ..\edgeservers\e2-server\images\logo.png
+File successfully downloaded to ..\edgeservers\e2-server\images\twitter-icon.png
+File successfully downloaded to ..\edgeservers\e2-server\images\linkedin-icon.png
+File successfully downloaded to ..\edgeservers\e2-server\images\instagram-icon.png
+File successfully downloaded to ..\edgeservers\e2-server\js\custom.js
+File successfully downloaded to ..\edgeservers\e2-server\images\fb-icon.png
+File successfully downloaded to ..\edgeservers\e2-server\js\jquery-3.0.0.min.js
+File successfully downloaded to ..\edgeservers\e2-server\js\popper.min.js
+css/responsive.css is served from New Delhi edge server successfully
+Origin File Name: css/responsive.css
+Type of file: text/css
+fileName css/responsive.css
+contentType text/css
+css/owl.carousel.min.css is served from New Delhi edge server successfully
+Origin File Name: css/owl.carousel.min.css
+Type of file: text/css
+fileName css/owl.carousel.min.css
+contentType text/css
+images/logo.png is served from Berlin edge server successfully
+Origin File Name: images/logo.png
+Type of file: image/png
+fileName images/logo.png
+contentType image/png
+images/twitter-icon.png is served from Berlin edge server successfully
+Origin File Name: images/twitter-icon.png
+Type of file: image/png
+fileName images/twitter-icon.png
+contentType image/png
+images/linkedin-icon.png is served from Berlin edge server successfully
+Origin File Name: images/linkedin-icon.png
+Type of file: image/png
+fileName images/linkedin-icon.png
+contentType image/png
+images/instagram-icon.png is served from Berlin edge server successfully
+Origin File Name: images/instagram-icon.png
+Type of file: image/png
+fileName images/instagram-icon.png
+contentType image/png
+js/custom.js is served from Berlin edge server successfully
+Origin File Name: js/custom.js
+Type of file: application/javascript
+fileName js/custom.js
+contentType application/javascript
+images/fb-icon.png is served from Berlin edge server successfully
+Origin File Name: images/fb-icon.png
+Type of file: image/png
+fileName images/fb-icon.png
+contentType image/png
+js/jquery-3.0.0.min.js is served from Berlin edge server successfully
+Origin File Name: js/jquery-3.0.0.min.js
+Type of file: application/javascript
+fileName js/jquery-3.0.0.min.js
+contentType application/javascript
+File successfully downloaded to ..\edgeservers\e1-server\css\jquery.mCustomScrollbar.min.css
+File successfully downloaded to ..\edgeservers\e2-server\js\jquery.mCustomScrollbar.concat.min.js
+js/popper.min.js is served from Berlin edge server successfully
+Origin File Name: js/popper.min.js
+Type of file: application/javascript
+fileName js/popper.min.js
+contentType application/javascript
+css/jquery.mCustomScrollbar.min.css is served from New Delhi edge server successfully
+Origin File Name: css/jquery.mCustomScrollbar.min.css
+Type of file: text/css
+fileName css/jquery.mCustomScrollbar.min.css
+contentType text/css
+js/jquery.mCustomScrollbar.concat.min.js is served from Berlin edge server successfully
+Origin File Name: js/jquery.mCustomScrollbar.concat.min.js
+Type of file: application/javascript
+fileName js/jquery.mCustomScrollbar.concat.min.js
+contentType application/javascript
+File successfully downloaded to ..\edgeservers\e2-server\js\bootstrap.bundle.min.js
+File successfully downloaded to ..\edgeservers\e2-server\js\jquery.min.js
+File successfully downloaded to ..\edgeservers\e1-server\css\bootstrap.min.css
+js/bootstrap.bundle.min.js is served from Berlin edge server successfully
+Origin File Name: js/bootstrap.bundle.min.js
+Type of file: application/javascript
+fileName js/bootstrap.bundle.min.js
+contentType application/javascript
+js/jquery.min.js is served from Berlin edge server successfully
+Origin File Name: js/jquery.min.js
+Type of file: application/javascript
+fileName js/jquery.min.js
+contentType application/javascript
+css/bootstrap.min.css is served from New Delhi edge server successfully
+Origin File Name: css/bootstrap.min.css
+Type of file: text/css
+fileName css/bootstrap.min.css
+contentType text/css
+File successfully downloaded to ..\edgeservers\e2-server\js\plugin.js
+js/plugin.js is served from Berlin edge server successfully
+Origin File Name: js/plugin.js
+Type of file: application/javascript
+fileName js/plugin.js
+contentType application/javascript
+File successfully downloaded to ..\edgeservers\e2-server\videos\video1.mp4
+videos/video1.mp4 is served from Berlin edge server successfully
+Origin File Name: videos/video1.mp4
+Type of file: video/mp4
+fileName videos/video1.mp4
+contentType video/mp4
+reqCounter 20
+reqPerServerCount 7
+defaultEdge count2 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816d,
+  zone: 'Montreal',
+  la: 45.5,
+  lo: -73.56,
+  url: '../edgeservers/',
+  bucket: 'e3-server',
+  __v: 0
+}
+start 21
+end 28
+Content of file images/fevicon.png
+Round Robin algorithm selected Edge Server Montreal
+File successfully downloaded to ..\edgeservers\e3-server\images\fevicon.png
+images/fevicon.png is served from Montreal edge server successfully
+Origin File Name: images/fevicon.png
+Type of file: image/png
+fileName images/fevicon.png
+contentType image/png
+reqCounter 21
+reqPerServerCount 5
+defaultEdge count2 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816d,
+  zone: 'Montreal',
+  la: 45.5,
+  lo: -73.56,
+  url: '../edgeservers/',
+  bucket: 'e3-server',
+  __v: 0
+}
+start 22
+end 28
+Content of file css/bootstrap.min.css
+Round Robin algorithm selected Edge Server Montreal
+reqCounter 22
+reqPerServerCount 5
+defaultEdge count2 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816d,
+  zone: 'Montreal',
+  la: 45.5,
+  lo: -73.56,
+  url: '../edgeservers/',
+  bucket: 'e3-server',
+  __v: 0
+}
+start 23
+end 28
+Content of file css/style.css
+Round Robin algorithm selected Edge Server Montreal
+reqCounter 1
+reqPerServerCount 5
+defaultEdge count0 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816b,
+  zone: 'New Delhi',
+  la: 28.64,
+  lo: 77.21,
+  url: '../edgeservers/',
+  bucket: 'e1-server',
+  __v: 0
+}
+start 2
+end 5
+Content of file css/responsive.css
+Round Robin algorithm selected Edge Server New Delhi
+reqCounter 2
+reqPerServerCount 5
+defaultEdge count0 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816b,
+  zone: 'New Delhi',
+  la: 28.64,
+  lo: 77.21,
+  url: '../edgeservers/',
+  bucket: 'e1-server',
+  __v: 0
+}
+start 3
+end 5
+Content of file css/jquery.mCustomScrollbar.min.css
+Round Robin algorithm selected Edge Server New Delhi
+reqCounter 3
+reqPerServerCount 5
+defaultEdge count0 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816b,
+  zone: 'New Delhi',
+  la: 28.64,
+  lo: 77.21,
+  url: '../edgeservers/',
+  bucket: 'e1-server',
+  __v: 0
+}
+start 4
+end 5
+Content of file css/owl.carousel.min.css
+Round Robin algorithm selected Edge Server New Delhi
+reqCounter 4
+reqPerServerCount 5
+defaultEdge count1 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816c,
+  zone: 'Berlin',
+  la: 52.52,
+  lo: 13.4,
+  url: '../edgeservers/',
+  bucket: 'e2-server',
+  __v: 0
+}
+start 5
+end 10
+Content of file css/owl.theme.default.min.css
+Round Robin algorithm selected Edge Server Berlin
+reqCounter 5
+reqPerServerCount 5
+defaultEdge count1 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816c,
+  zone: 'Berlin',
+  la: 52.52,
+  lo: 13.4,
+  url: '../edgeservers/',
+  bucket: 'e2-server',
+  __v: 0
+}
+start 6
+end 10
+Content of file js/jquery.min.js
+Round Robin algorithm selected Edge Server Berlin
+reqCounter 6
+reqPerServerCount 5
+defaultEdge count1 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816c,
+  zone: 'Berlin',
+  la: 52.52,
+  lo: 13.4,
+  url: '../edgeservers/',
+  bucket: 'e2-server',
+  __v: 0
+}
+start 7
+end 10
+Content of file images/logo.png
+Round Robin algorithm selected Edge Server Berlin
+File is available
+css/responsive.css is served from New Delhi edge server successfully
+Origin File Name: css/responsive.css
+Type of file: text/css
+fileName css/responsive.css
+contentType text/css
+File is available
+css/jquery.mCustomScrollbar.min.css is served from New Delhi edge server successfully
+Origin File Name: css/jquery.mCustomScrollbar.min.css
+Type of file: text/css
+fileName css/jquery.mCustomScrollbar.min.css
+contentType text/css
+reqCounter 7
+reqPerServerCount 5
+defaultEdge count1 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816c,
+  zone: 'Berlin',
+  la: 52.52,
+  lo: 13.4,
+  url: '../edgeservers/',
+  bucket: 'e2-server',
+  __v: 0
+}
+start 8
+end 10
+Content of file images/fb-icon.png
+Round Robin algorithm selected Edge Server Berlin
+reqCounter 8
+reqPerServerCount 5
+defaultEdge count1 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816c,
+  zone: 'Berlin',
+  la: 52.52,
+  lo: 13.4,
+  url: '../edgeservers/',
+  bucket: 'e2-server',
+  __v: 0
+}
+start 9
+end 10
+Content of file images/twitter-icon.png
+Round Robin algorithm selected Edge Server Berlin
+reqCounter 9
+reqPerServerCount 5
+defaultEdge count2 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816d,
+  zone: 'Montreal',
+  la: 45.5,
+  lo: -73.56,
+  url: '../edgeservers/',
+  bucket: 'e3-server',
+  __v: 0
+}
+start 10
+end 21
+Content of file images/instagram-icon.png
+Round Robin algorithm selected Edge Server Montreal
+reqCounter 10
+reqPerServerCount 5
+defaultEdge count2 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816d,
+  zone: 'Montreal',
+  la: 45.5,
+  lo: -73.56,
+  url: '../edgeservers/',
+  bucket: 'e3-server',
+  __v: 0
+}
+start 11
+end 21
+Content of file images/linkedin-icon.png
+Round Robin algorithm selected Edge Server Montreal
+reqCounter 11
+reqPerServerCount 5
+defaultEdge count2 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816d,
+  zone: 'Montreal',
+  la: 45.5,
+  lo: -73.56,
+  url: '../edgeservers/',
+  bucket: 'e3-server',
+  __v: 0
+}
+start 12
+end 21
+Content of file js/popper.min.js
+Round Robin algorithm selected Edge Server Montreal
+reqCounter 12
+reqPerServerCount 5
+defaultEdge count2 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816d,
+  zone: 'Montreal',
+  la: 45.5,
+  lo: -73.56,
+  url: '../edgeservers/',
+  bucket: 'e3-server',
+  __v: 0
+}
+start 13
+end 21
+Content of file js/bootstrap.bundle.min.js
+Round Robin algorithm selected Edge Server Montreal
+reqCounter 13
+reqPerServerCount 5
+defaultEdge count2 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816d,
+  zone: 'Montreal',
+  la: 45.5,
+  lo: -73.56,
+  url: '../edgeservers/',
+  bucket: 'e3-server',
+  __v: 0
+}
+start 14
+end 21
+Content of file js/jquery-3.0.0.min.js
+Round Robin algorithm selected Edge Server Montreal
+reqCounter 14
+reqPerServerCount 5
+defaultEdge count2 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816d,
+  zone: 'Montreal',
+  la: 45.5,
+  lo: -73.56,
+  url: '../edgeservers/',
+  bucket: 'e3-server',
+  __v: 0
+}
+start 15
+end 21
+Content of file js/plugin.js
+Round Robin algorithm selected Edge Server Montreal
+reqCounter 15
+reqPerServerCount 5
+defaultEdge count2 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816d,
+  zone: 'Montreal',
+  la: 45.5,
+  lo: -73.56,
+  url: '../edgeservers/',
+  bucket: 'e3-server',
+  __v: 0
+}
+start 16
+end 21
+Content of file js/jquery.mCustomScrollbar.concat.min.js
+Round Robin algorithm selected Edge Server Montreal
+reqCounter 16
+reqPerServerCount 5
+defaultEdge count2 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816d,
+  zone: 'Montreal',
+  la: 45.5,
+  lo: -73.56,
+  url: '../edgeservers/',
+  bucket: 'e3-server',
+  __v: 0
+}
+start 17
+end 21
+Content of file js/custom.js
+Round Robin algorithm selected Edge Server Montreal
+reqCounter 17
+reqPerServerCount 5
+defaultEdge count2 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816d,
+  zone: 'Montreal',
+  la: 45.5,
+  lo: -73.56,
+  url: '../edgeservers/',
+  bucket: 'e3-server',
+  __v: 0
+}
+start 18
+end 21
+Content of file videos/video1.mp4
+Round Robin algorithm selected Edge Server Montreal
+File is available
+css/owl.carousel.min.css is served from New Delhi edge server successfully
+Origin File Name: css/owl.carousel.min.css
+Type of file: text/css
+fileName css/owl.carousel.min.css
+contentType text/css
+File is available
+css/owl.theme.default.min.css is served from Berlin edge server successfully
+Origin File Name: css/owl.theme.default.min.css
+Type of file: text/css
+fileName css/owl.theme.default.min.css
+contentType text/css
+File is available
+js/jquery.min.js is served from Berlin edge server successfully
+Origin File Name: js/jquery.min.js
+Type of file: application/javascript
+fileName js/jquery.min.js
+contentType application/javascript
+File is available
+images/logo.png is served from Berlin edge server successfully
+Origin File Name: images/logo.png
+Type of file: image/png
+fileName images/logo.png
+contentType image/png
+File is available
+images/fb-icon.png is served from Berlin edge server successfully
+Origin File Name: images/fb-icon.png
+Type of file: image/png
+fileName images/fb-icon.png
+contentType image/png
+File is available
+images/twitter-icon.png is served from Berlin edge server successfully
+Origin File Name: images/twitter-icon.png
+Type of file: image/png
+fileName images/twitter-icon.png
+contentType image/png
+File successfully downloaded to ..\edgeservers\e3-server\css\style.css
+css/style.css is served from Montreal edge server successfully
+Origin File Name: css/style.css
+Type of file: text/css
+fileName css/style.css
+contentType text/css
+File successfully downloaded to ..\edgeservers\e3-server\images\instagram-icon.png
+File successfully downloaded to ..\edgeservers\e3-server\images\linkedin-icon.png
+File successfully downloaded to ..\edgeservers\e3-server\js\jquery-3.0.0.min.js
+File successfully downloaded to ..\edgeservers\e3-server\js\popper.min.js
+File successfully downloaded to ..\edgeservers\e3-server\js\custom.js
+images/instagram-icon.png is served from Montreal edge server successfully
+Origin File Name: images/instagram-icon.png
+Type of file: image/png
+fileName images/instagram-icon.png
+contentType image/png
+images/linkedin-icon.png is served from Montreal edge server successfully
+Origin File Name: images/linkedin-icon.png
+Type of file: image/png
+fileName images/linkedin-icon.png
+contentType image/png
+js/jquery-3.0.0.min.js is served from Montreal edge server successfully
+Origin File Name: js/jquery-3.0.0.min.js
+Type of file: application/javascript
+fileName js/jquery-3.0.0.min.js
+contentType application/javascript
+js/popper.min.js is served from Montreal edge server successfully
+Origin File Name: js/popper.min.js
+Type of file: application/javascript
+fileName js/popper.min.js
+contentType application/javascript
+js/custom.js is served from Montreal edge server successfully
+Origin File Name: js/custom.js
+Type of file: application/javascript
+fileName js/custom.js
+contentType application/javascript
+File successfully downloaded to ..\edgeservers\e3-server\js\jquery.mCustomScrollbar.concat.min.js
+File successfully downloaded to ..\edgeservers\e3-server\js\bootstrap.bundle.min.js
+js/jquery.mCustomScrollbar.concat.min.js is served from Montreal edge server successfully
+Origin File Name: js/jquery.mCustomScrollbar.concat.min.js
+Type of file: application/javascript
+fileName js/jquery.mCustomScrollbar.concat.min.js
+contentType application/javascript
+File successfully downloaded to ..\edgeservers\e3-server\css\bootstrap.min.css
+js/bootstrap.bundle.min.js is served from Montreal edge server successfully
+Origin File Name: js/bootstrap.bundle.min.js
+Type of file: application/javascript
+fileName js/bootstrap.bundle.min.js
+contentType application/javascript
+css/bootstrap.min.css is served from Montreal edge server successfully
+Origin File Name: css/bootstrap.min.css
+Type of file: text/css
+fileName css/bootstrap.min.css
+contentType text/css
+File successfully downloaded to ..\edgeservers\e3-server\js\plugin.js
+js/plugin.js is served from Montreal edge server successfully
+Origin File Name: js/plugin.js
+Type of file: application/javascript
+fileName js/plugin.js
+contentType application/javascript
+File successfully downloaded to ..\edgeservers\e3-server\videos\video1.mp4
+videos/video1.mp4 is served from Montreal edge server successfully
+Origin File Name: videos/video1.mp4
+Type of file: video/mp4
+fileName videos/video1.mp4
+contentType video/mp4
+reqCounter 18
+reqPerServerCount 5
+defaultEdge count2 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816d,
+  zone: 'Montreal',
+  la: 45.5,
+  lo: -73.56,
+  url: '../edgeservers/',
+  bucket: 'e3-server',
+  __v: 0
+}
+start 19
+end 21
+Content of file images/fevicon.png
+Round Robin algorithm selected Edge Server Montreal
+File is available
+images/fevicon.png is served from Montreal edge server successfully
+Origin File Name: images/fevicon.png
+Type of file: image/png
+fileName images/fevicon.png
+contentType image/png
+reqCounter 19
+reqPerServerCount 5
+defaultEdge count2 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816d,
+  zone: 'Montreal',
+  la: 45.5,
+  lo: -73.56,
+  url: '../edgeservers/',
+  bucket: 'e3-server',
+  __v: 0
+}
+start 20
+end 21
+Content of file css/jquery.mCustomScrollbar.min.css
+Round Robin algorithm selected Edge Server Montreal
+reqCounter 20
+reqPerServerCount 5
+defaultEdge count3 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: true,
+  _id: 65754b739f9fe5039802824e,
+  zone: 'Paris',
+  bucket: 'e4-server',
+  la: 12.34,
+  lo: 56.78,
+  url: '../edgeservers/',
+  __v: 0
+}
+start 21
+end 26
+Content of file images/linkedin-icon.png
+Round Robin algorithm selected Edge Server Paris
+reqCounter 21
+reqPerServerCount 5
+defaultEdge count3 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: true,
+  _id: 65754b739f9fe5039802824e,
+  zone: 'Paris',
+  bucket: 'e4-server',
+  la: 12.34,
+  lo: 56.78,
+  url: '../edgeservers/',
+  __v: 0
+}
+start 22
+end 26
+Content of file css/bootstrap.min.css
+Round Robin algorithm selected Edge Server Paris
+reqCounter 22
+reqPerServerCount 5
+defaultEdge count3 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: true,
+  _id: 65754b739f9fe5039802824e,
+  zone: 'Paris',
+  bucket: 'e4-server',
+  la: 12.34,
+  lo: 56.78,
+  url: '../edgeservers/',
+  __v: 0
+}
+start 23
+end 26
+Content of file css/style.css
+Round Robin algorithm selected Edge Server Paris
+reqCounter 1
+reqPerServerCount 5
+defaultEdge count0 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816b,
+  zone: 'New Delhi',
+  la: 28.64,
+  lo: 77.21,
+  url: '../edgeservers/',
+  bucket: 'e1-server',
+  __v: 0
+}
+start 2
+end 5
+Content of file css/responsive.css
+Round Robin algorithm selected Edge Server New Delhi
+reqCounter 2
+reqPerServerCount 5
+defaultEdge count0 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816b,
+  zone: 'New Delhi',
+  la: 28.64,
+  lo: 77.21,
+  url: '../edgeservers/',
+  bucket: 'e1-server',
+  __v: 0
+}
+start 3
+end 5
+Content of file css/owl.carousel.min.css
+Round Robin algorithm selected Edge Server New Delhi
+reqCounter 3
+reqPerServerCount 5
+defaultEdge count0 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816b,
+  zone: 'New Delhi',
+  la: 28.64,
+  lo: 77.21,
+  url: '../edgeservers/',
+  bucket: 'e1-server',
+  __v: 0
+}
+start 4
+end 5
+Content of file css/owl.theme.default.min.css
+Round Robin algorithm selected Edge Server New Delhi
+reqCounter 4
+reqPerServerCount 5
+defaultEdge count1 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816c,
+  zone: 'Berlin',
+  la: 52.52,
+  lo: 13.4,
+  url: '../edgeservers/',
+  bucket: 'e2-server',
+  __v: 0
+}
+start 5
+end 10
+Content of file images/logo.png
+Round Robin algorithm selected Edge Server Berlin
+reqCounter 5
+reqPerServerCount 5
+defaultEdge count1 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816c,
+  zone: 'Berlin',
+  la: 52.52,
+  lo: 13.4,
+  url: '../edgeservers/',
+  bucket: 'e2-server',
+  __v: 0
+}
+start 6
+end 10
+Content of file images/fb-icon.png
+Round Robin algorithm selected Edge Server Berlin
+reqCounter 6
+reqPerServerCount 5
+defaultEdge count1 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816c,
+  zone: 'Berlin',
+  la: 52.52,
+  lo: 13.4,
+  url: '../edgeservers/',
+  bucket: 'e2-server',
+  __v: 0
+}
+start 7
+end 10
+Content of file images/twitter-icon.png
+Round Robin algorithm selected Edge Server Berlin
+reqCounter 7
+reqPerServerCount 5
+defaultEdge count1 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816c,
+  zone: 'Berlin',
+  la: 52.52,
+  lo: 13.4,
+  url: '../edgeservers/',
+  bucket: 'e2-server',
+  __v: 0
+}
+start 8
+end 10
+Content of file images/instagram-icon.png
+Round Robin algorithm selected Edge Server Berlin
+reqCounter 8
+reqPerServerCount 5
+defaultEdge count1 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816c,
+  zone: 'Berlin',
+  la: 52.52,
+  lo: 13.4,
+  url: '../edgeservers/',
+  bucket: 'e2-server',
+  __v: 0
+}
+start 9
+end 10
+Content of file js/jquery.min.js
+Round Robin algorithm selected Edge Server Berlin
+reqCounter 9
+reqPerServerCount 5
+defaultEdge count2 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816d,
+  zone: 'Montreal',
+  la: 45.5,
+  lo: -73.56,
+  url: '../edgeservers/',
+  bucket: 'e3-server',
+  __v: 0
+}
+start 10
+end 21
+Content of file js/popper.min.js
+Round Robin algorithm selected Edge Server Montreal
+reqCounter 10
+reqPerServerCount 5
+defaultEdge count2 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816d,
+  zone: 'Montreal',
+  la: 45.5,
+  lo: -73.56,
+  url: '../edgeservers/',
+  bucket: 'e3-server',
+  __v: 0
+}
+start 11
+end 21
+Content of file js/bootstrap.bundle.min.js
+Round Robin algorithm selected Edge Server Montreal
+reqCounter 11
+reqPerServerCount 5
+defaultEdge count2 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816d,
+  zone: 'Montreal',
+  la: 45.5,
+  lo: -73.56,
+  url: '../edgeservers/',
+  bucket: 'e3-server',
+  __v: 0
+}
+start 12
+end 21
+Content of file js/jquery-3.0.0.min.js
+Round Robin algorithm selected Edge Server Montreal
+reqCounter 12
+reqPerServerCount 5
+defaultEdge count2 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816d,
+  zone: 'Montreal',
+  la: 45.5,
+  lo: -73.56,
+  url: '../edgeservers/',
+  bucket: 'e3-server',
+  __v: 0
+}
+start 13
+end 21
+Content of file js/plugin.js
+Round Robin algorithm selected Edge Server Montreal
+reqCounter 13
+reqPerServerCount 5
+defaultEdge count2 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816d,
+  zone: 'Montreal',
+  la: 45.5,
+  lo: -73.56,
+  url: '../edgeservers/',
+  bucket: 'e3-server',
+  __v: 0
+}
+start 14
+end 21
+Content of file js/jquery.mCustomScrollbar.concat.min.js
+Round Robin algorithm selected Edge Server Montreal
+reqCounter 14
+reqPerServerCount 5
+defaultEdge count2 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816d,
+  zone: 'Montreal',
+  la: 45.5,
+  lo: -73.56,
+  url: '../edgeservers/',
+  bucket: 'e3-server',
+  __v: 0
+}
+start 15
+end 21
+Content of file js/custom.js
+Round Robin algorithm selected Edge Server Montreal
+reqCounter 15
+reqPerServerCount 5
+defaultEdge count2 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816d,
+  zone: 'Montreal',
+  la: 45.5,
+  lo: -73.56,
+  url: '../edgeservers/',
+  bucket: 'e3-server',
+  __v: 0
+}
+start 16
+end 21
+Content of file videos/video1.mp4
+Round Robin algorithm selected Edge Server Montreal
+File is available
+css/responsive.css is served from New Delhi edge server successfully
+Origin File Name: css/responsive.css
+Type of file: text/css
+fileName css/responsive.css
+contentType text/css
+File is available
+css/owl.carousel.min.css is served from New Delhi edge server successfully
+Origin File Name: css/owl.carousel.min.css
+Type of file: text/css
+fileName css/owl.carousel.min.css
+contentType text/css
+File is available
+js/jquery.mCustomScrollbar.concat.min.js is served from Montreal edge server successfully
+Origin File Name: js/jquery.mCustomScrollbar.concat.min.js
+Type of file: application/javascript
+fileName js/jquery.mCustomScrollbar.concat.min.js
+contentType application/javascript
+File is available
+images/logo.png is served from Berlin edge server successfully
+Origin File Name: images/logo.png
+Type of file: image/png
+fileName images/logo.png
+contentType image/png
+File is available
+images/fb-icon.png is served from Berlin edge server successfully
+Origin File Name: images/fb-icon.png
+Type of file: image/png
+fileName images/fb-icon.png
+contentType image/png
+File is available
+images/twitter-icon.png is served from Berlin edge server successfully
+Origin File Name: images/twitter-icon.png
+Type of file: image/png
+fileName images/twitter-icon.png
+contentType image/png
+File is available
+images/instagram-icon.png is served from Berlin edge server successfully
+Origin File Name: images/instagram-icon.png
+Type of file: image/png
+fileName images/instagram-icon.png
+contentType image/png
+File is available
+js/jquery.min.js is served from Berlin edge server successfully
+Origin File Name: js/jquery.min.js
+Type of file: application/javascript
+fileName js/jquery.min.js
+contentType application/javascript
+File is available
+js/popper.min.js is served from Montreal edge server successfully
+Origin File Name: js/popper.min.js
+Type of file: application/javascript
+fileName js/popper.min.js
+contentType application/javascript
+File is available
+js/bootstrap.bundle.min.js is served from Montreal edge server successfully
+Origin File Name: js/bootstrap.bundle.min.js
+Type of file: application/javascript
+fileName js/bootstrap.bundle.min.js
+contentType application/javascript
+File is available
+js/jquery-3.0.0.min.js is served from Montreal edge server successfully
+Origin File Name: js/jquery-3.0.0.min.js
+Type of file: application/javascript
+fileName js/jquery-3.0.0.min.js
+contentType application/javascript
+File is available
+js/plugin.js is served from Montreal edge server successfully
+Origin File Name: js/plugin.js
+Type of file: application/javascript
+fileName js/plugin.js
+contentType application/javascript
+File is available
+js/custom.js is served from Montreal edge server successfully
+Origin File Name: js/custom.js
+Type of file: application/javascript
+fileName js/custom.js
+contentType application/javascript
+File is available
+videos/video1.mp4 is served from Montreal edge server successfully
+Origin File Name: videos/video1.mp4
+Type of file: video/mp4
+fileName videos/video1.mp4
+contentType video/mp4
+File successfully downloaded to ..\edgeservers\e1-server\css\owl.theme.default.min.css
+File successfully downloaded to ..\edgeservers\e4-server\images\linkedin-icon.png
+css/owl.theme.default.min.css is served from New Delhi edge server successfully
+Origin File Name: css/owl.theme.default.min.css
+Type of file: text/css
+fileName css/owl.theme.default.min.css
+contentType text/css
+images/linkedin-icon.png is served from Paris edge server successfully
+Origin File Name: images/linkedin-icon.png
+Type of file: image/png
+fileName images/linkedin-icon.png
+contentType image/png
+File successfully downloaded to ..\edgeservers\e4-server\css\style.css
+File successfully downloaded to ..\edgeservers\e3-server\css\jquery.mCustomScrollbar.min.css
+css/style.css is served from Paris edge server successfully
+Origin File Name: css/style.css
+Type of file: text/css
+fileName css/style.css
+contentType text/css
+css/jquery.mCustomScrollbar.min.css is served from Montreal edge server successfully
+Origin File Name: css/jquery.mCustomScrollbar.min.css
+Type of file: text/css
+fileName css/jquery.mCustomScrollbar.min.css
+contentType text/css
+File successfully downloaded to ..\edgeservers\e4-server\css\bootstrap.min.css
+css/bootstrap.min.css is served from Paris edge server successfully
+Origin File Name: css/bootstrap.min.css
+Type of file: text/css
+fileName css/bootstrap.min.css
+contentType text/css
+reqCounter 16
+reqPerServerCount 5
+defaultEdge count2 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816d,
+  zone: 'Montreal',
+  la: 45.5,
+  lo: -73.56,
+  url: '../edgeservers/',
+  bucket: 'e3-server',
+  __v: 0
+}
+start 17
+end 21
+Content of file images/fevicon.png
+Round Robin algorithm selected Edge Server Montreal
+File is available
+images/fevicon.png is served from Montreal edge server successfully
+Origin File Name: images/fevicon.png
+Type of file: image/png
+fileName images/fevicon.png
+contentType image/png
+reqCounter 17
+reqPerServerCount 5
+defaultEdge count2 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816d,
+  zone: 'Montreal',
+  la: 45.5,
+  lo: -73.56,
+  url: '../edgeservers/',
+  bucket: 'e3-server',
+  __v: 0
+}
+start 18
+end 21
+Content of file css/responsive.css
+Round Robin algorithm selected Edge Server Montreal
+reqCounter 18
+reqPerServerCount 5
+defaultEdge count2 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816d,
+  zone: 'Montreal',
+  la: 45.5,
+  lo: -73.56,
+  url: '../edgeservers/',
+  bucket: 'e3-server',
+  __v: 0
+}
+start 19
+end 21
+Content of file js/jquery-3.0.0.min.js
+Round Robin algorithm selected Edge Server Montreal
+reqCounter 19
+reqPerServerCount 5
+defaultEdge count2 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816d,
+  zone: 'Montreal',
+  la: 45.5,
+  lo: -73.56,
+  url: '../edgeservers/',
+  bucket: 'e3-server',
+  __v: 0
+}
+start 20
+end 21
+Content of file js/jquery.mCustomScrollbar.concat.min.js
+Round Robin algorithm selected Edge Server Montreal
+reqCounter 20
+reqPerServerCount 5
+defaultEdge count3 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: true,
+  _id: 65754b739f9fe5039802824e,
+  zone: 'Paris',
+  bucket: 'e4-server',
+  la: 12.34,
+  lo: 56.78,
+  url: '../edgeservers/',
+  __v: 0
+}
+start 21
+end 26
+Content of file js/custom.js
+Round Robin algorithm selected Edge Server Paris
+reqCounter 21
+reqPerServerCount 5
+defaultEdge count3 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: true,
+  _id: 65754b739f9fe5039802824e,
+  zone: 'Paris',
+  bucket: 'e4-server',
+  la: 12.34,
+  lo: 56.78,
+  url: '../edgeservers/',
+  __v: 0
+}
+start 22
+end 26
+Content of file css/bootstrap.min.css
+Round Robin algorithm selected Edge Server Paris
+reqCounter 22
+reqPerServerCount 5
+defaultEdge count3 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: true,
+  _id: 65754b739f9fe5039802824e,
+  zone: 'Paris',
+  bucket: 'e4-server',
+  la: 12.34,
+  lo: 56.78,
+  url: '../edgeservers/',
+  __v: 0
+}
+start 23
+end 26
+Content of file css/style.css
+Round Robin algorithm selected Edge Server Paris
+reqCounter 1
+reqPerServerCount 5
+defaultEdge count0 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816b,
+  zone: 'New Delhi',
+  la: 28.64,
+  lo: 77.21,
+  url: '../edgeservers/',
+  bucket: 'e1-server',
+  __v: 0
+}
+start 2
+end 5
+Content of file css/jquery.mCustomScrollbar.min.css
+Round Robin algorithm selected Edge Server New Delhi
+reqCounter 2
+reqPerServerCount 5
+defaultEdge count0 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816b,
+  zone: 'New Delhi',
+  la: 28.64,
+  lo: 77.21,
+  url: '../edgeservers/',
+  bucket: 'e1-server',
+  __v: 0
+}
+start 3
+end 5
+Content of file css/owl.carousel.min.css
+Round Robin algorithm selected Edge Server New Delhi
+reqCounter 3
+reqPerServerCount 5
+defaultEdge count0 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816b,
+  zone: 'New Delhi',
+  la: 28.64,
+  lo: 77.21,
+  url: '../edgeservers/',
+  bucket: 'e1-server',
+  __v: 0
+}
+start 4
+end 5
+Content of file css/owl.theme.default.min.css
+Round Robin algorithm selected Edge Server New Delhi
+reqCounter 4
+reqPerServerCount 5
+defaultEdge count1 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816c,
+  zone: 'Berlin',
+  la: 52.52,
+  lo: 13.4,
+  url: '../edgeservers/',
+  bucket: 'e2-server',
+  __v: 0
+}
+start 5
+end 10
+Content of file images/logo.png
+Round Robin algorithm selected Edge Server Berlin
+reqCounter 5
+reqPerServerCount 5
+defaultEdge count1 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816c,
+  zone: 'Berlin',
+  la: 52.52,
+  lo: 13.4,
+  url: '../edgeservers/',
+  bucket: 'e2-server',
+  __v: 0
+}
+start 6
+end 10
+Content of file images/fb-icon.png
+Round Robin algorithm selected Edge Server Berlin
+reqCounter 6
+reqPerServerCount 5
+defaultEdge count1 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816c,
+  zone: 'Berlin',
+  la: 52.52,
+  lo: 13.4,
+  url: '../edgeservers/',
+  bucket: 'e2-server',
+  __v: 0
+}
+start 7
+end 10
+Content of file images/twitter-icon.png
+Round Robin algorithm selected Edge Server Berlin
+reqCounter 7
+reqPerServerCount 5
+defaultEdge count1 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816c,
+  zone: 'Berlin',
+  la: 52.52,
+  lo: 13.4,
+  url: '../edgeservers/',
+  bucket: 'e2-server',
+  __v: 0
+}
+start 8
+end 10
+Content of file images/instagram-icon.png
+Round Robin algorithm selected Edge Server Berlin
+reqCounter 8
+reqPerServerCount 5
+defaultEdge count1 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816c,
+  zone: 'Berlin',
+  la: 52.52,
+  lo: 13.4,
+  url: '../edgeservers/',
+  bucket: 'e2-server',
+  __v: 0
+}
+start 9
+end 10
+Content of file images/linkedin-icon.png
+Round Robin algorithm selected Edge Server Berlin
+reqCounter 9
+reqPerServerCount 5
+defaultEdge count2 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816d,
+  zone: 'Montreal',
+  la: 45.5,
+  lo: -73.56,
+  url: '../edgeservers/',
+  bucket: 'e3-server',
+  __v: 0
+}
+start 10
+end 21
+Content of file js/jquery.min.js
+Round Robin algorithm selected Edge Server Montreal
+reqCounter 10
+reqPerServerCount 5
+defaultEdge count2 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816d,
+  zone: 'Montreal',
+  la: 45.5,
+  lo: -73.56,
+  url: '../edgeservers/',
+  bucket: 'e3-server',
+  __v: 0
+}
+start 11
+end 21
+Content of file js/popper.min.js
+Round Robin algorithm selected Edge Server Montreal
+reqCounter 11
+reqPerServerCount 5
+defaultEdge count2 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816d,
+  zone: 'Montreal',
+  la: 45.5,
+  lo: -73.56,
+  url: '../edgeservers/',
+  bucket: 'e3-server',
+  __v: 0
+}
+start 12
+end 21
+Content of file js/bootstrap.bundle.min.js
+Round Robin algorithm selected Edge Server Montreal
+reqCounter 12
+reqPerServerCount 5
+defaultEdge count2 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816d,
+  zone: 'Montreal',
+  la: 45.5,
+  lo: -73.56,
+  url: '../edgeservers/',
+  bucket: 'e3-server',
+  __v: 0
+}
+start 13
+end 21
+Content of file js/plugin.js
+Round Robin algorithm selected Edge Server Montreal
+File is available
+images/fb-icon.png is served from Berlin edge server successfully
+Origin File Name: images/fb-icon.png
+Type of file: image/png
+fileName images/fb-icon.png
+contentType image/png
+reqCounter 13
+reqPerServerCount 5
+defaultEdge count2 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816d,
+  zone: 'Montreal',
+  la: 45.5,
+  lo: -73.56,
+  url: '../edgeservers/',
+  bucket: 'e3-server',
+  __v: 0
+}
+start 14
+end 21
+Content of file videos/video1.mp4
+Round Robin algorithm selected Edge Server Montreal
+File is available
+js/jquery-3.0.0.min.js is served from Montreal edge server successfully
+Origin File Name: js/jquery-3.0.0.min.js
+Type of file: application/javascript
+fileName js/jquery-3.0.0.min.js
+contentType application/javascript
+File is available
+js/jquery.mCustomScrollbar.concat.min.js is served from Montreal edge server successfully
+Origin File Name: js/jquery.mCustomScrollbar.concat.min.js
+Type of file: application/javascript
+fileName js/jquery.mCustomScrollbar.concat.min.js
+contentType application/javascript
+File is available
+css/bootstrap.min.css is served from Paris edge server successfully
+Origin File Name: css/bootstrap.min.css
+Type of file: text/css
+fileName css/bootstrap.min.css
+contentType text/css
+File is available
+css/style.css is served from Paris edge server successfully
+Origin File Name: css/style.css
+Type of file: text/css
+fileName css/style.css
+contentType text/css
+File is available
+css/jquery.mCustomScrollbar.min.css is served from New Delhi edge server successfully
+Origin File Name: css/jquery.mCustomScrollbar.min.css
+Type of file: text/css
+fileName css/jquery.mCustomScrollbar.min.css
+contentType text/css
+File is available
+css/owl.carousel.min.css is served from New Delhi edge server successfully
+Origin File Name: css/owl.carousel.min.css
+Type of file: text/css
+fileName css/owl.carousel.min.css
+contentType text/css
+File is available
+css/owl.theme.default.min.css is served from New Delhi edge server successfully
+Origin File Name: css/owl.theme.default.min.css
+Type of file: text/css
+fileName css/owl.theme.default.min.css
+contentType text/css
+File is available
+images/logo.png is served from Berlin edge server successfully
+Origin File Name: images/logo.png
+Type of file: image/png
+fileName images/logo.png
+contentType image/png
+File is available
+images/twitter-icon.png is served from Berlin edge server successfully
+Origin File Name: images/twitter-icon.png
+Type of file: image/png
+fileName images/twitter-icon.png
+contentType image/png
+File is available
+js/popper.min.js is served from Montreal edge server successfully
+Origin File Name: js/popper.min.js
+Type of file: application/javascript
+fileName js/popper.min.js
+contentType application/javascript
+File is available
+images/instagram-icon.png is served from Berlin edge server successfully
+Origin File Name: images/instagram-icon.png
+Type of file: image/png
+fileName images/instagram-icon.png
+contentType image/png
+File is available
+images/linkedin-icon.png is served from Berlin edge server successfully
+Origin File Name: images/linkedin-icon.png
+Type of file: image/png
+fileName images/linkedin-icon.png
+contentType image/png
+File is available
+js/bootstrap.bundle.min.js is served from Montreal edge server successfully
+Origin File Name: js/bootstrap.bundle.min.js
+Type of file: application/javascript
+fileName js/bootstrap.bundle.min.js
+contentType application/javascript
+File is available
+js/plugin.js is served from Montreal edge server successfully
+Origin File Name: js/plugin.js
+Type of file: application/javascript
+fileName js/plugin.js
+contentType application/javascript
+File is available
+videos/video1.mp4 is served from Montreal edge server successfully
+Origin File Name: videos/video1.mp4
+Type of file: video/mp4
+fileName videos/video1.mp4
+contentType video/mp4
+File successfully downloaded to ..\edgeservers\e3-server\css\responsive.css
+css/responsive.css is served from Montreal edge server successfully
+Origin File Name: css/responsive.css
+Type of file: text/css
+fileName css/responsive.css
+contentType text/css
+File successfully downloaded to ..\edgeservers\e4-server\js\custom.js
+js/custom.js is served from Paris edge server successfully
+Origin File Name: js/custom.js
+Type of file: application/javascript
+fileName js/custom.js
+contentType application/javascript
+File successfully downloaded to ..\edgeservers\e3-server\js\jquery.min.js
+js/jquery.min.js is served from Montreal edge server successfully
+Origin File Name: js/jquery.min.js
+Type of file: application/javascript
+fileName js/jquery.min.js
+contentType application/javascript
+reqCounter 14
+reqPerServerCount 5
+defaultEdge count2 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816d,
+  zone: 'Montreal',
+  la: 45.5,
+  lo: -73.56,
+  url: '../edgeservers/',
+  bucket: 'e3-server',
+  __v: 0
+}
+start 15
+end 21
+Content of file videos/video1.mp4
+Round Robin algorithm selected Edge Server Montreal
+File is available
+videos/video1.mp4 is served from Montreal edge server successfully
+Origin File Name: videos/video1.mp4
+Type of file: video/mp4
+fileName videos/video1.mp4
+contentType video/mp4
+reqCounter 15
+reqPerServerCount 5
+defaultEdge count2 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816d,
+  zone: 'Montreal',
+  la: 45.5,
+  lo: -73.56,
+  url: '../edgeservers/',
+  bucket: 'e3-server',
+  __v: 0
+}
+start 16
+end 21
+Content of file images/fevicon.png
+Round Robin algorithm selected Edge Server Montreal
+File is available
+images/fevicon.png is served from Montreal edge server successfully
+Origin File Name: images/fevicon.png
+Type of file: image/png
+fileName images/fevicon.png
+contentType image/png
+reqCounter 16
+reqPerServerCount 3
+defaultEdge count2 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816d,
+  zone: 'Montreal',
+  la: 45.5,
+  lo: -73.56,
+  url: '../edgeservers/',
+  bucket: 'e3-server',
+  __v: 0
+}
+start 17
+end 21
+Content of file css/bootstrap.min.css
+Round Robin algorithm selected Edge Server Montreal
+File is available
+css/bootstrap.min.css is served from Montreal edge server successfully
+Origin File Name: css/bootstrap.min.css
+Type of file: text/css
+fileName css/bootstrap.min.css
+contentType text/css
+reqCounter 17
+reqPerServerCount 3
+defaultEdge count2 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816d,
+  zone: 'Montreal',
+  la: 45.5,
+  lo: -73.56,
+  url: '../edgeservers/',
+  bucket: 'e3-server',
+  __v: 0
+}
+start 18
+end 21
+Content of file css/style.css
+Round Robin algorithm selected Edge Server Montreal
+reqCounter 18
+reqPerServerCount 3
+defaultEdge count2 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816d,
+  zone: 'Montreal',
+  la: 45.5,
+  lo: -73.56,
+  url: '../edgeservers/',
+  bucket: 'e3-server',
+  __v: 0
+}
+start 19
+end 21
+Content of file images/instagram-icon.png
+Round Robin algorithm selected Edge Server Montreal
+reqCounter 19
+reqPerServerCount 3
+defaultEdge count2 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816d,
+  zone: 'Montreal',
+  la: 45.5,
+  lo: -73.56,
+  url: '../edgeservers/',
+  bucket: 'e3-server',
+  __v: 0
+}
+start 20
+end 21
+Content of file images/linkedin-icon.png
+Round Robin algorithm selected Edge Server Montreal
+reqCounter 20
+reqPerServerCount 3
+defaultEdge count3 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: true,
+  _id: 65754b739f9fe5039802824e,
+  zone: 'Paris',
+  bucket: 'e4-server',
+  la: 12.34,
+  lo: 56.78,
+  url: '../edgeservers/',
+  __v: 0
+}
+start 21
+end 24
+Content of file js/jquery.min.js
+Round Robin algorithm selected Edge Server Paris
+File is available
+css/style.css is served from Montreal edge server successfully
+Origin File Name: css/style.css
+Type of file: text/css
+fileName css/style.css
+contentType text/css
+reqCounter 21
+reqPerServerCount 3
+defaultEdge count3 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: true,
+  _id: 65754b739f9fe5039802824e,
+  zone: 'Paris',
+  bucket: 'e4-server',
+  la: 12.34,
+  lo: 56.78,
+  url: '../edgeservers/',
+  __v: 0
+}
+start 22
+end 24
+Content of file js/popper.min.js
+Round Robin algorithm selected Edge Server Paris
+reqCounter 22
+reqPerServerCount 3
+defaultEdge count3 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: true,
+  _id: 65754b739f9fe5039802824e,
+  zone: 'Paris',
+  bucket: 'e4-server',
+  la: 12.34,
+  lo: 56.78,
+  url: '../edgeservers/',
+  __v: 0
+}
+start 23
+end 24
+Content of file js/bootstrap.bundle.min.js
+Round Robin algorithm selected Edge Server Paris
+reqCounter 1
+reqPerServerCount 3
+defaultEdge count0 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816b,
+  zone: 'New Delhi',
+  la: 28.64,
+  lo: 77.21,
+  url: '../edgeservers/',
+  bucket: 'e1-server',
+  __v: 0
+}
+start 2
+end 3
+Content of file js/jquery-3.0.0.min.js
+Round Robin algorithm selected Edge Server New Delhi
+reqCounter 2
+reqPerServerCount 3
+defaultEdge count1 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816c,
+  zone: 'Berlin',
+  la: 52.52,
+  lo: 13.4,
+  url: '../edgeservers/',
+  bucket: 'e2-server',
+  __v: 0
+}
+start 3
+end 6
+Content of file css/responsive.css
+Round Robin algorithm selected Edge Server Berlin
+reqCounter 3
+reqPerServerCount 3
+defaultEdge count1 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816c,
+  zone: 'Berlin',
+  la: 52.52,
+  lo: 13.4,
+  url: '../edgeservers/',
+  bucket: 'e2-server',
+  __v: 0
+}
+start 4
+end 6
+Content of file css/jquery.mCustomScrollbar.min.css
+Round Robin algorithm selected Edge Server Berlin
+reqCounter 4
+reqPerServerCount 3
+defaultEdge count1 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816c,
+  zone: 'Berlin',
+  la: 52.52,
+  lo: 13.4,
+  url: '../edgeservers/',
+  bucket: 'e2-server',
+  __v: 0
+}
+start 5
+end 6
+Content of file css/owl.carousel.min.css
+Round Robin algorithm selected Edge Server Berlin
+reqCounter 5
+reqPerServerCount 3
+defaultEdge count2 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816d,
+  zone: 'Montreal',
+  la: 45.5,
+  lo: -73.56,
+  url: '../edgeservers/',
+  bucket: 'e3-server',
+  __v: 0
+}
+start 6
+end 9
+Content of file css/owl.theme.default.min.css
+Round Robin algorithm selected Edge Server Montreal
+reqCounter 6
+reqPerServerCount 3
+defaultEdge count2 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816d,
+  zone: 'Montreal',
+  la: 45.5,
+  lo: -73.56,
+  url: '../edgeservers/',
+  bucket: 'e3-server',
+  __v: 0
+}
+start 7
+end 9
+Content of file images/logo.png
+Round Robin algorithm selected Edge Server Montreal
+reqCounter 7
+reqPerServerCount 3
+defaultEdge count2 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816d,
+  zone: 'Montreal',
+  la: 45.5,
+  lo: -73.56,
+  url: '../edgeservers/',
+  bucket: 'e3-server',
+  __v: 0
+}
+start 8
+end 9
+Content of file images/fb-icon.png
+Round Robin algorithm selected Edge Server Montreal
+reqCounter 8
+reqPerServerCount 3
+defaultEdge count3 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: true,
+  _id: 65754b739f9fe5039802824e,
+  zone: 'Paris',
+  bucket: 'e4-server',
+  la: 12.34,
+  lo: 56.78,
+  url: '../edgeservers/',
+  __v: 0
+}
+start 9
+end 12
+Content of file images/twitter-icon.png
+Round Robin algorithm selected Edge Server Paris
+reqCounter 9
+reqPerServerCount 3
+defaultEdge count3 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: true,
+  _id: 65754b739f9fe5039802824e,
+  zone: 'Paris',
+  bucket: 'e4-server',
+  la: 12.34,
+  lo: 56.78,
+  url: '../edgeservers/',
+  __v: 0
+}
+start 10
+end 12
+Content of file js/plugin.js
+Round Robin algorithm selected Edge Server Paris
+reqCounter 10
+reqPerServerCount 3
+defaultEdge count3 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: true,
+  _id: 65754b739f9fe5039802824e,
+  zone: 'Paris',
+  bucket: 'e4-server',
+  la: 12.34,
+  lo: 56.78,
+  url: '../edgeservers/',
+  __v: 0
+}
+start 11
+end 12
+Content of file js/jquery.mCustomScrollbar.concat.min.js
+Round Robin algorithm selected Edge Server Paris
+reqCounter 11
+reqPerServerCount 3
+defaultEdge count4 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: true,
+  _id: 65754c7b9f9fe503980282d1,
+  zone: 'Munich',
+  bucket: 'e4-server',
+  la: 12.34,
+  lo: 56.78,
+  url: '../edgeservers/',
+  __v: 0
+}
+start 12
+end 21
+Content of file js/custom.js
+Round Robin algorithm selected Edge Server Munich
+reqCounter 12
+reqPerServerCount 3
+defaultEdge count4 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: true,
+  _id: 65754c7b9f9fe503980282d1,
+  zone: 'Munich',
+  bucket: 'e4-server',
+  la: 12.34,
+  lo: 56.78,
+  url: '../edgeservers/',
+  __v: 0
+}
+start 13
+end 21
+Content of file videos/video1.mp4
+Round Robin algorithm selected Edge Server Munich
+File is available
+images/instagram-icon.png is served from Montreal edge server successfully
+Origin File Name: images/instagram-icon.png
+Type of file: image/png
+fileName images/instagram-icon.png
+contentType image/png
+File is available
+images/linkedin-icon.png is served from Montreal edge server successfully
+Origin File Name: images/linkedin-icon.png
+Type of file: image/png
+fileName images/linkedin-icon.png
+contentType image/png
+File successfully downloaded to ..\edgeservers\e4-server\js\popper.min.js
+File successfully downloaded to ..\edgeservers\e1-server\js\jquery-3.0.0.min.js
+File successfully downloaded to ..\edgeservers\e3-server\css\owl.theme.default.min.css
+File successfully downloaded to ..\edgeservers\e2-server\css\responsive.css
+File successfully downloaded to ..\edgeservers\e2-server\css\owl.carousel.min.css
+File successfully downloaded to ..\edgeservers\e3-server\images\logo.png
+File successfully downloaded to ..\edgeservers\e3-server\images\fb-icon.png
+File successfully downloaded to ..\edgeservers\e4-server\images\twitter-icon.png
+js/popper.min.js is served from Paris edge server successfully
+Origin File Name: js/popper.min.js
+Type of file: application/javascript
+fileName js/popper.min.js
+contentType application/javascript
+js/jquery-3.0.0.min.js is served from New Delhi edge server successfully
+Origin File Name: js/jquery-3.0.0.min.js
+Type of file: application/javascript
+fileName js/jquery-3.0.0.min.js
+contentType application/javascript
+css/owl.theme.default.min.css is served from Montreal edge server successfully
+Origin File Name: css/owl.theme.default.min.css
+Type of file: text/css
+fileName css/owl.theme.default.min.css
+contentType text/css
+css/responsive.css is served from Berlin edge server successfully
+Origin File Name: css/responsive.css
+Type of file: text/css
+fileName css/responsive.css
+contentType text/css
+css/owl.carousel.min.css is served from Berlin edge server successfully
+Origin File Name: css/owl.carousel.min.css
+Type of file: text/css
+fileName css/owl.carousel.min.css
+contentType text/css
+File successfully downloaded to ..\edgeservers\e2-server\css\jquery.mCustomScrollbar.min.css
+File successfully downloaded to ..\edgeservers\e4-server\js\custom.js
+images/logo.png is served from Montreal edge server successfully
+Origin File Name: images/logo.png
+Type of file: image/png
+fileName images/logo.png
+contentType image/png
+images/fb-icon.png is served from Montreal edge server successfully
+Origin File Name: images/fb-icon.png
+Type of file: image/png
+fileName images/fb-icon.png
+contentType image/png
+images/twitter-icon.png is served from Paris edge server successfully
+Origin File Name: images/twitter-icon.png
+Type of file: image/png
+fileName images/twitter-icon.png
+contentType image/png
+css/jquery.mCustomScrollbar.min.css is served from Berlin edge server successfully
+Origin File Name: css/jquery.mCustomScrollbar.min.css
+Type of file: text/css
+fileName css/jquery.mCustomScrollbar.min.css
+contentType text/css
+js/custom.js is served from Munich edge server successfully
+Origin File Name: js/custom.js
+Type of file: application/javascript
+fileName js/custom.js
+contentType application/javascript
+File successfully downloaded to ..\edgeservers\e4-server\js\bootstrap.bundle.min.js
+File successfully downloaded to ..\edgeservers\e4-server\js\jquery.mCustomScrollbar.concat.min.js
+File successfully downloaded to ..\edgeservers\e4-server\js\jquery.min.js
+js/bootstrap.bundle.min.js is served from Paris edge server successfully
+Origin File Name: js/bootstrap.bundle.min.js
+Type of file: application/javascript
+fileName js/bootstrap.bundle.min.js
+contentType application/javascript
+js/jquery.mCustomScrollbar.concat.min.js is served from Paris edge server successfully
+Origin File Name: js/jquery.mCustomScrollbar.concat.min.js
+Type of file: application/javascript
+fileName js/jquery.mCustomScrollbar.concat.min.js
+contentType application/javascript
+js/jquery.min.js is served from Paris edge server successfully
+Origin File Name: js/jquery.min.js
+Type of file: application/javascript
+fileName js/jquery.min.js
+contentType application/javascript
+File successfully downloaded to ..\edgeservers\e4-server\js\plugin.js
+js/plugin.js is served from Paris edge server successfully
+Origin File Name: js/plugin.js
+Type of file: application/javascript
+fileName js/plugin.js
+contentType application/javascript
+File successfully downloaded to ..\edgeservers\e4-server\videos\video1.mp4
+videos/video1.mp4 is served from Munich edge server successfully
+Origin File Name: videos/video1.mp4
+Type of file: video/mp4
+fileName videos/video1.mp4
+contentType video/mp4
+reqCounter 13
+reqPerServerCount 3
+defaultEdge count4 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: true,
+  _id: 65754c7b9f9fe503980282d1,
+  zone: 'Munich',
+  bucket: 'e4-server',
+  la: 12.34,
+  lo: 56.78,
+  url: '../edgeservers/',
+  __v: 0
+}
+start 14
+end 21
+Content of file images/fevicon.png
+Round Robin algorithm selected Edge Server Munich
+File successfully downloaded to ..\edgeservers\e4-server\images\fevicon.png
+images/fevicon.png is served from Munich edge server successfully
+Origin File Name: images/fevicon.png
+Type of file: image/png
+fileName images/fevicon.png
+contentType image/png
+reqCounter 14
+reqPerServerCount 3
+defaultEdge count4 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: true,
+  _id: 65754c7b9f9fe503980282d1,
+  zone: 'Munich',
+  bucket: 'e4-server',
+  la: 12.34,
+  lo: 56.78,
+  url: '../edgeservers/',
+  __v: 0
+}
+start 15
+end 21
+Content of file js/custom.js
+Round Robin algorithm selected Edge Server Munich
+reqCounter 15
+reqPerServerCount 3
+defaultEdge count4 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: true,
+  _id: 65754c7b9f9fe503980282d1,
+  zone: 'Munich',
+  bucket: 'e4-server',
+  la: 12.34,
+  lo: 56.78,
+  url: '../edgeservers/',
+  __v: 0
+}
+start 16
+end 21
+Content of file css/bootstrap.min.css
+Round Robin algorithm selected Edge Server Munich
+reqCounter 16
+reqPerServerCount 3
+defaultEdge count4 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: true,
+  _id: 65754c7b9f9fe503980282d1,
+  zone: 'Munich',
+  bucket: 'e4-server',
+  la: 12.34,
+  lo: 56.78,
+  url: '../edgeservers/',
+  __v: 0
+}
+start 17
+end 21
+Content of file css/style.css
+Round Robin algorithm selected Edge Server Munich
+reqCounter 17
+reqPerServerCount 3
+defaultEdge count4 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: true,
+  _id: 65754c7b9f9fe503980282d1,
+  zone: 'Munich',
+  bucket: 'e4-server',
+  la: 12.34,
+  lo: 56.78,
+  url: '../edgeservers/',
+  __v: 0
+}
+start 18
+end 21
+Content of file css/responsive.css
+Round Robin algorithm selected Edge Server Munich
+reqCounter 18
+reqPerServerCount 3
+defaultEdge count4 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: true,
+  _id: 65754c7b9f9fe503980282d1,
+  zone: 'Munich',
+  bucket: 'e4-server',
+  la: 12.34,
+  lo: 56.78,
+  url: '../edgeservers/',
+  __v: 0
+}
+start 19
+end 21
+Content of file css/jquery.mCustomScrollbar.min.css
+Round Robin algorithm selected Edge Server Munich
+reqCounter 19
+reqPerServerCount 3
+defaultEdge count4 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: true,
+  _id: 65754c7b9f9fe503980282d1,
+  zone: 'Munich',
+  bucket: 'e4-server',
+  la: 12.34,
+  lo: 56.78,
+  url: '../edgeservers/',
+  __v: 0
+}
+start 20
+end 21
+Content of file css/owl.carousel.min.css
+Round Robin algorithm selected Edge Server Munich
+reqCounter 20
+reqPerServerCount 3
+defaultEdge count5 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: true,
+  _id: 65754ca89f9fe503980282d9,
+  zone: 'Ottawa',
+  bucket: 'e5-server',
+  la: 45.56,
+  lo: -78.65,
+  url: '../edgeservers/',
+  __v: 0
+}
+start 21
+end 24
+Content of file css/owl.theme.default.min.css
+Round Robin algorithm selected Edge Server Ottawa
+reqCounter 21
+reqPerServerCount 3
+defaultEdge count5 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: true,
+  _id: 65754ca89f9fe503980282d9,
+  zone: 'Ottawa',
+  bucket: 'e5-server',
+  la: 45.56,
+  lo: -78.65,
+  url: '../edgeservers/',
+  __v: 0
+}
+start 22
+end 24
+Content of file js/jquery.min.js
+Round Robin algorithm selected Edge Server Ottawa
+reqCounter 22
+reqPerServerCount 3
+defaultEdge count5 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: true,
+  _id: 65754ca89f9fe503980282d9,
+  zone: 'Ottawa',
+  bucket: 'e5-server',
+  la: 45.56,
+  lo: -78.65,
+  url: '../edgeservers/',
+  __v: 0
+}
+start 23
+end 24
+Content of file images/logo.png
+Round Robin algorithm selected Edge Server Ottawa
+reqCounter 1
+reqPerServerCount 3
+defaultEdge count0 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816b,
+  zone: 'New Delhi',
+  la: 28.64,
+  lo: 77.21,
+  url: '../edgeservers/',
+  bucket: 'e1-server',
+  __v: 0
+}
+start 2
+end 3
+Content of file images/fb-icon.png
+Round Robin algorithm selected Edge Server New Delhi
+reqCounter 2
+reqPerServerCount 3
+defaultEdge count1 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816c,
+  zone: 'Berlin',
+  la: 52.52,
+  lo: 13.4,
+  url: '../edgeservers/',
+  bucket: 'e2-server',
+  __v: 0
+}
+start 3
+end 6
+Content of file images/twitter-icon.png
+Round Robin algorithm selected Edge Server Berlin
+reqCounter 3
+reqPerServerCount 3
+defaultEdge count1 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816c,
+  zone: 'Berlin',
+  la: 52.52,
+  lo: 13.4,
+  url: '../edgeservers/',
+  bucket: 'e2-server',
+  __v: 0
+}
+start 4
+end 6
+Content of file images/instagram-icon.png
+Round Robin algorithm selected Edge Server Berlin
+reqCounter 4
+reqPerServerCount 3
+defaultEdge count1 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816c,
+  zone: 'Berlin',
+  la: 52.52,
+  lo: 13.4,
+  url: '../edgeservers/',
+  bucket: 'e2-server',
+  __v: 0
+}
+start 5
+end 6
+Content of file images/linkedin-icon.png
+Round Robin algorithm selected Edge Server Berlin
+reqCounter 5
+reqPerServerCount 3
+defaultEdge count2 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816d,
+  zone: 'Montreal',
+  la: 45.5,
+  lo: -73.56,
+  url: '../edgeservers/',
+  bucket: 'e3-server',
+  __v: 0
+}
+start 6
+end 9
+Content of file js/popper.min.js
+Round Robin algorithm selected Edge Server Montreal
+File is available
+js/custom.js is served from Munich edge server successfully
+Origin File Name: js/custom.js
+Type of file: application/javascript
+fileName js/custom.js
+contentType application/javascript
+reqCounter 6
+reqPerServerCount 3
+defaultEdge count2 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816d,
+  zone: 'Montreal',
+  la: 45.5,
+  lo: -73.56,
+  url: '../edgeservers/',
+  bucket: 'e3-server',
+  __v: 0
+}
+start 7
+end 9
+Content of file js/bootstrap.bundle.min.js
+Round Robin algorithm selected Edge Server Montreal
+reqCounter 7
+reqPerServerCount 3
+defaultEdge count2 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816d,
+  zone: 'Montreal',
+  la: 45.5,
+  lo: -73.56,
+  url: '../edgeservers/',
+  bucket: 'e3-server',
+  __v: 0
+}
+start 8
+end 9
+Content of file js/jquery-3.0.0.min.js
+Round Robin algorithm selected Edge Server Montreal
+reqCounter 8
+reqPerServerCount 3
+defaultEdge count3 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: true,
+  _id: 65754b739f9fe5039802824e,
+  zone: 'Paris',
+  bucket: 'e4-server',
+  la: 12.34,
+  lo: 56.78,
+  url: '../edgeservers/',
+  __v: 0
+}
+start 9
+end 12
+Content of file js/plugin.js
+Round Robin algorithm selected Edge Server Paris
+reqCounter 9
+reqPerServerCount 3
+defaultEdge count3 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: true,
+  _id: 65754b739f9fe5039802824e,
+  zone: 'Paris',
+  bucket: 'e4-server',
+  la: 12.34,
+  lo: 56.78,
+  url: '../edgeservers/',
+  __v: 0
+}
+start 10
+end 12
+Content of file js/jquery.mCustomScrollbar.concat.min.js
+Round Robin algorithm selected Edge Server Paris
+reqCounter 10
+reqPerServerCount 3
+defaultEdge count3 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: true,
+  _id: 65754b739f9fe5039802824e,
+  zone: 'Paris',
+  bucket: 'e4-server',
+  la: 12.34,
+  lo: 56.78,
+  url: '../edgeservers/',
+  __v: 0
+}
+start 11
+end 12
+Content of file videos/video1.mp4
+Round Robin algorithm selected Edge Server Paris
+File is available
+images/twitter-icon.png is served from Berlin edge server successfully
+Origin File Name: images/twitter-icon.png
+Type of file: image/png
+fileName images/twitter-icon.png
+contentType image/png
+File is available
+images/instagram-icon.png is served from Berlin edge server successfully
+Origin File Name: images/instagram-icon.png
+Type of file: image/png
+fileName images/instagram-icon.png
+contentType image/png
+File is available
+js/plugin.js is served from Paris edge server successfully
+Origin File Name: js/plugin.js
+Type of file: application/javascript
+fileName js/plugin.js
+contentType application/javascript
+File is available
+js/jquery.mCustomScrollbar.concat.min.js is served from Paris edge server successfully
+Origin File Name: js/jquery.mCustomScrollbar.concat.min.js
+Type of file: application/javascript
+fileName js/jquery.mCustomScrollbar.concat.min.js
+contentType application/javascript
+File is available
+images/linkedin-icon.png is served from Berlin edge server successfully
+Origin File Name: images/linkedin-icon.png
+Type of file: image/png
+fileName images/linkedin-icon.png
+contentType image/png
+File is available
+js/popper.min.js is served from Montreal edge server successfully
+Origin File Name: js/popper.min.js
+Type of file: application/javascript
+fileName js/popper.min.js
+contentType application/javascript
+File is available
+js/bootstrap.bundle.min.js is served from Montreal edge server successfully
+Origin File Name: js/bootstrap.bundle.min.js
+Type of file: application/javascript
+fileName js/bootstrap.bundle.min.js
+contentType application/javascript
+File is available
+js/jquery-3.0.0.min.js is served from Montreal edge server successfully
+Origin File Name: js/jquery-3.0.0.min.js
+Type of file: application/javascript
+fileName js/jquery-3.0.0.min.js
+contentType application/javascript
+File successfully downloaded to ..\edgeservers\e4-server\css\style.css
+File successfully downloaded to ..\edgeservers\e4-server\css\responsive.css
+File successfully downloaded to ..\edgeservers\e5-server\css\owl.theme.default.min.css
+File successfully downloaded to ..\edgeservers\e4-server\css\owl.carousel.min.css
+File successfully downloaded to ..\edgeservers\e5-server\images\logo.png
+File successfully downloaded to ..\edgeservers\e1-server\images\fb-icon.png
+css/style.css is served from Munich edge server successfully
+Origin File Name: css/style.css
+Type of file: text/css
+fileName css/style.css
+contentType text/css
+css/responsive.css is served from Munich edge server successfully
+Origin File Name: css/responsive.css
+Type of file: text/css
+fileName css/responsive.css
+contentType text/css
+css/owl.theme.default.min.css is served from Ottawa edge server successfully
+Origin File Name: css/owl.theme.default.min.css
+Type of file: text/css
+fileName css/owl.theme.default.min.css
+contentType text/css
+css/owl.carousel.min.css is served from Munich edge server successfully
+Origin File Name: css/owl.carousel.min.css
+Type of file: text/css
+fileName css/owl.carousel.min.css
+contentType text/css
+File successfully downloaded to ..\edgeservers\e4-server\css\jquery.mCustomScrollbar.min.css
+images/logo.png is served from Ottawa edge server successfully
+Origin File Name: images/logo.png
+Type of file: image/png
+fileName images/logo.png
+contentType image/png
+images/fb-icon.png is served from New Delhi edge server successfully
+Origin File Name: images/fb-icon.png
+Type of file: image/png
+fileName images/fb-icon.png
+contentType image/png
+css/jquery.mCustomScrollbar.min.css is served from Munich edge server successfully
+Origin File Name: css/jquery.mCustomScrollbar.min.css
+Type of file: text/css
+fileName css/jquery.mCustomScrollbar.min.css
+contentType text/css
+File successfully downloaded to ..\edgeservers\e5-server\js\jquery.min.js
+File successfully downloaded to ..\edgeservers\e4-server\css\bootstrap.min.css
+js/jquery.min.js is served from Ottawa edge server successfully
+Origin File Name: js/jquery.min.js
+Type of file: application/javascript
+fileName js/jquery.min.js
+contentType application/javascript
+css/bootstrap.min.css is served from Munich edge server successfully
+Origin File Name: css/bootstrap.min.css
+Type of file: text/css
+fileName css/bootstrap.min.css
+contentType text/css
+File successfully downloaded to ..\edgeservers\e4-server\videos\video1.mp4
+videos/video1.mp4 is served from Paris edge server successfully
+Origin File Name: videos/video1.mp4
+Type of file: video/mp4
+fileName videos/video1.mp4
+contentType video/mp4
+reqCounter 11
+reqPerServerCount 3
+defaultEdge count4 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: true,
+  _id: 65754c7b9f9fe503980282d1,
+  zone: 'Munich',
+  bucket: 'e4-server',
+  la: 12.34,
+  lo: 56.78,
+  url: '../edgeservers/',
+  __v: 0
+}
+start 12
+end 21
+Content of file images/fevicon.png
+Round Robin algorithm selected Edge Server Munich
+File is available
+images/fevicon.png is served from Munich edge server successfully
+Origin File Name: images/fevicon.png
+Type of file: image/png
+fileName images/fevicon.png
+contentType image/png
+reqCounter 12
+reqPerServerCount 3
+defaultEdge count4 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: true,
+  _id: 65754c7b9f9fe503980282d1,
+  zone: 'Munich',
+  bucket: 'e4-server',
+  la: 12.34,
+  lo: 56.78,
+  url: '../edgeservers/',
+  __v: 0
+}
+start 13
+end 21
+Content of file js/custom.js
+Round Robin algorithm selected Edge Server Munich
+reqCounter 13
+reqPerServerCount 3
+defaultEdge count4 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: true,
+  _id: 65754c7b9f9fe503980282d1,
+  zone: 'Munich',
+  bucket: 'e4-server',
+  la: 12.34,
+  lo: 56.78,
+  url: '../edgeservers/',
+  __v: 0
+}
+start 14
+end 21
+Content of file css/bootstrap.min.css
+Round Robin algorithm selected Edge Server Munich
+reqCounter 14
+reqPerServerCount 3
+defaultEdge count4 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: true,
+  _id: 65754c7b9f9fe503980282d1,
+  zone: 'Munich',
+  bucket: 'e4-server',
+  la: 12.34,
+  lo: 56.78,
+  url: '../edgeservers/',
+  __v: 0
+}
+start 15
+end 21
+Content of file css/style.css
+Round Robin algorithm selected Edge Server Munich
+reqCounter 15
+reqPerServerCount 3
+defaultEdge count4 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: true,
+  _id: 65754c7b9f9fe503980282d1,
+  zone: 'Munich',
+  bucket: 'e4-server',
+  la: 12.34,
+  lo: 56.78,
+  url: '../edgeservers/',
+  __v: 0
+}
+start 16
+end 21
+Content of file css/responsive.css
+Round Robin algorithm selected Edge Server Munich
+reqCounter 16
+reqPerServerCount 3
+defaultEdge count4 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: true,
+  _id: 65754c7b9f9fe503980282d1,
+  zone: 'Munich',
+  bucket: 'e4-server',
+  la: 12.34,
+  lo: 56.78,
+  url: '../edgeservers/',
+  __v: 0
+}
+start 17
+end 21
+Content of file css/jquery.mCustomScrollbar.min.css
+Round Robin algorithm selected Edge Server Munich
+reqCounter 17
+reqPerServerCount 3
+defaultEdge count4 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: true,
+  _id: 65754c7b9f9fe503980282d1,
+  zone: 'Munich',
+  bucket: 'e4-server',
+  la: 12.34,
+  lo: 56.78,
+  url: '../edgeservers/',
+  __v: 0
+}
+start 18
+end 21
+Content of file css/owl.carousel.min.css
+Round Robin algorithm selected Edge Server Munich
+reqCounter 18
+reqPerServerCount 3
+defaultEdge count4 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: true,
+  _id: 65754c7b9f9fe503980282d1,
+  zone: 'Munich',
+  bucket: 'e4-server',
+  la: 12.34,
+  lo: 56.78,
+  url: '../edgeservers/',
+  __v: 0
+}
+start 19
+end 21
+Content of file css/owl.theme.default.min.css
+Round Robin algorithm selected Edge Server Munich
+reqCounter 19
+reqPerServerCount 3
+defaultEdge count4 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: true,
+  _id: 65754c7b9f9fe503980282d1,
+  zone: 'Munich',
+  bucket: 'e4-server',
+  la: 12.34,
+  lo: 56.78,
+  url: '../edgeservers/',
+  __v: 0
+}
+start 20
+end 21
+Content of file images/logo.png
+Round Robin algorithm selected Edge Server Munich
+reqCounter 20
+reqPerServerCount 3
+defaultEdge count5 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: true,
+  _id: 65754ca89f9fe503980282d9,
+  zone: 'Ottawa',
+  bucket: 'e5-server',
+  la: 45.56,
+  lo: -78.65,
+  url: '../edgeservers/',
+  __v: 0
+}
+start 21
+end 24
+Content of file images/fb-icon.png
+Round Robin algorithm selected Edge Server Ottawa
+reqCounter 21
+reqPerServerCount 3
+defaultEdge count5 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: true,
+  _id: 65754ca89f9fe503980282d9,
+  zone: 'Ottawa',
+  bucket: 'e5-server',
+  la: 45.56,
+  lo: -78.65,
+  url: '../edgeservers/',
+  __v: 0
+}
+start 22
+end 24
+Content of file images/twitter-icon.png
+Round Robin algorithm selected Edge Server Ottawa
+reqCounter 22
+reqPerServerCount 3
+defaultEdge count5 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: true,
+  _id: 65754ca89f9fe503980282d9,
+  zone: 'Ottawa',
+  bucket: 'e5-server',
+  la: 45.56,
+  lo: -78.65,
+  url: '../edgeservers/',
+  __v: 0
+}
+start 23
+end 24
+Content of file images/instagram-icon.png
+Round Robin algorithm selected Edge Server Ottawa
+reqCounter 1
+reqPerServerCount 3
+defaultEdge count0 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816b,
+  zone: 'New Delhi',
+  la: 28.64,
+  lo: 77.21,
+  url: '../edgeservers/',
+  bucket: 'e1-server',
+  __v: 0
+}
+start 2
+end 3
+Content of file js/jquery.min.js
+Round Robin algorithm selected Edge Server New Delhi
+reqCounter 2
+reqPerServerCount 3
+defaultEdge count1 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816c,
+  zone: 'Berlin',
+  la: 52.52,
+  lo: 13.4,
+  url: '../edgeservers/',
+  bucket: 'e2-server',
+  __v: 0
+}
+start 3
+end 6
+Content of file images/linkedin-icon.png
+Round Robin algorithm selected Edge Server Berlin
+reqCounter 3
+reqPerServerCount 3
+defaultEdge count1 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816c,
+  zone: 'Berlin',
+  la: 52.52,
+  lo: 13.4,
+  url: '../edgeservers/',
+  bucket: 'e2-server',
+  __v: 0
+}
+start 4
+end 6
+Content of file js/popper.min.js
+Round Robin algorithm selected Edge Server Berlin
+reqCounter 4
+reqPerServerCount 3
+defaultEdge count1 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816c,
+  zone: 'Berlin',
+  la: 52.52,
+  lo: 13.4,
+  url: '../edgeservers/',
+  bucket: 'e2-server',
+  __v: 0
+}
+start 5
+end 6
+Content of file js/bootstrap.bundle.min.js
+Round Robin algorithm selected Edge Server Berlin
+reqCounter 5
+reqPerServerCount 3
+defaultEdge count2 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816d,
+  zone: 'Montreal',
+  la: 45.5,
+  lo: -73.56,
+  url: '../edgeservers/',
+  bucket: 'e3-server',
+  __v: 0
+}
+start 6
+end 9
+Content of file js/jquery-3.0.0.min.js
+Round Robin algorithm selected Edge Server Montreal
+reqCounter 6
+reqPerServerCount 3
+defaultEdge count2 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816d,
+  zone: 'Montreal',
+  la: 45.5,
+  lo: -73.56,
+  url: '../edgeservers/',
+  bucket: 'e3-server',
+  __v: 0
+}
+start 7
+end 9
+Content of file js/plugin.js
+Round Robin algorithm selected Edge Server Montreal
+reqCounter 7
+reqPerServerCount 3
+defaultEdge count2 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816d,
+  zone: 'Montreal',
+  la: 45.5,
+  lo: -73.56,
+  url: '../edgeservers/',
+  bucket: 'e3-server',
+  __v: 0
+}
+start 8
+end 9
+Content of file js/jquery.mCustomScrollbar.concat.min.js
+Round Robin algorithm selected Edge Server Montreal
+reqCounter 8
+reqPerServerCount 3
+defaultEdge count3 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: true,
+  _id: 65754b739f9fe5039802824e,
+  zone: 'Paris',
+  bucket: 'e4-server',
+  la: 12.34,
+  lo: 56.78,
+  url: '../edgeservers/',
+  __v: 0
+}
+start 9
+end 12
+Content of file videos/video1.mp4
+Round Robin algorithm selected Edge Server Paris
+File is available
+js/custom.js is served from Munich edge server successfully
+Origin File Name: js/custom.js
+Type of file: application/javascript
+fileName js/custom.js
+contentType application/javascript
+File is available
+css/bootstrap.min.css is served from Munich edge server successfully
+Origin File Name: css/bootstrap.min.css
+Type of file: text/css
+fileName css/bootstrap.min.css
+contentType text/css
+File is available
+css/style.css is served from Munich edge server successfully
+Origin File Name: css/style.css
+Type of file: text/css
+fileName css/style.css
+contentType text/css
+File is available
+css/responsive.css is served from Munich edge server successfully
+Origin File Name: css/responsive.css
+Type of file: text/css
+fileName css/responsive.css
+contentType text/css
+File is available
+css/jquery.mCustomScrollbar.min.css is served from Munich edge server successfully
+Origin File Name: css/jquery.mCustomScrollbar.min.css
+Type of file: text/css
+fileName css/jquery.mCustomScrollbar.min.css
+contentType text/css
+File is available
+css/owl.carousel.min.css is served from Munich edge server successfully
+Origin File Name: css/owl.carousel.min.css
+Type of file: text/css
+fileName css/owl.carousel.min.css
+contentType text/css
+File is available
+images/linkedin-icon.png is served from Berlin edge server successfully
+Origin File Name: images/linkedin-icon.png
+Type of file: image/png
+fileName images/linkedin-icon.png
+contentType image/png
+File is available
+js/popper.min.js is served from Berlin edge server successfully
+Origin File Name: js/popper.min.js
+Type of file: application/javascript
+fileName js/popper.min.js
+contentType application/javascript
+File is available
+js/bootstrap.bundle.min.js is served from Berlin edge server successfully
+Origin File Name: js/bootstrap.bundle.min.js
+Type of file: application/javascript
+fileName js/bootstrap.bundle.min.js
+contentType application/javascript
+File is available
+js/jquery-3.0.0.min.js is served from Montreal edge server successfully
+Origin File Name: js/jquery-3.0.0.min.js
+Type of file: application/javascript
+fileName js/jquery-3.0.0.min.js
+contentType application/javascript
+File is available
+js/jquery.mCustomScrollbar.concat.min.js is served from Montreal edge server successfully
+Origin File Name: js/jquery.mCustomScrollbar.concat.min.js
+Type of file: application/javascript
+fileName js/jquery.mCustomScrollbar.concat.min.js
+contentType application/javascript
+File is available
+videos/video1.mp4 is served from Paris edge server successfully
+Origin File Name: videos/video1.mp4
+Type of file: video/mp4
+fileName videos/video1.mp4
+contentType video/mp4
+File is available
+js/plugin.js is served from Montreal edge server successfully
+Origin File Name: js/plugin.js
+Type of file: application/javascript
+fileName js/plugin.js
+contentType application/javascript
+File successfully downloaded to ..\edgeservers\e4-server\css\owl.theme.default.min.css
+css/owl.theme.default.min.css is served from Munich edge server successfully
+Origin File Name: css/owl.theme.default.min.css
+Type of file: text/css
+fileName css/owl.theme.default.min.css
+contentType text/css
+File successfully downloaded to ..\edgeservers\e4-server\images\logo.png
+File successfully downloaded to ..\edgeservers\e5-server\images\twitter-icon.png
+File successfully downloaded to ..\edgeservers\e5-server\images\fb-icon.png
+File successfully downloaded to ..\edgeservers\e5-server\images\instagram-icon.png
+images/logo.png is served from Munich edge server successfully
+Origin File Name: images/logo.png
+Type of file: image/png
+fileName images/logo.png
+contentType image/png
+images/twitter-icon.png is served from Ottawa edge server successfully
+Origin File Name: images/twitter-icon.png
+Type of file: image/png
+fileName images/twitter-icon.png
+contentType image/png
+images/fb-icon.png is served from Ottawa edge server successfully
+Origin File Name: images/fb-icon.png
+Type of file: image/png
+fileName images/fb-icon.png
+contentType image/png
+images/instagram-icon.png is served from Ottawa edge server successfully
+Origin File Name: images/instagram-icon.png
+Type of file: image/png
+fileName images/instagram-icon.png
+contentType image/png
+File successfully downloaded to ..\edgeservers\e1-server\js\jquery.min.js
+js/jquery.min.js is served from New Delhi edge server successfully
+Origin File Name: js/jquery.min.js
+Type of file: application/javascript
+fileName js/jquery.min.js
+contentType application/javascript
+reqCounter 9
+reqPerServerCount 3
+defaultEdge count3 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: true,
+  _id: 65754b739f9fe5039802824e,
+  zone: 'Paris',
+  bucket: 'e4-server',
+  la: 12.34,
+  lo: 56.78,
+  url: '../edgeservers/',
+  __v: 0
+}
+start 10
+end 12
+Content of file images/fevicon.png
+Round Robin algorithm selected Edge Server Paris
+File successfully downloaded to ..\edgeservers\e4-server\images\fevicon.png
+images/fevicon.png is served from Paris edge server successfully
+Origin File Name: images/fevicon.png
+Type of file: image/png
+fileName images/fevicon.png
+contentType image/png
+Controller listening on port 3001
+reqCounter 1
+reqPerServerCount 20
+defaultEdge count0 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816b,
+  zone: 'New Delhi',
+  la: 28.64,
+  lo: 77.21,
+  url: '../edgeservers/',
+  bucket: 'e1-server',
+  __v: 0
+}
+start 2
+end 20
+Content of file css/bootstrap.min.css
+Round Robin algorithm selected Edge Server New Delhi
+reqCounter 2
+reqPerServerCount 20
+defaultEdge count0 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816b,
+  zone: 'New Delhi',
+  la: 28.64,
+  lo: 77.21,
+  url: '../edgeservers/',
+  bucket: 'e1-server',
+  __v: 0
+}
+start 3
+end 20
+Content of file css/style.css
+Round Robin algorithm selected Edge Server New Delhi
+reqCounter 3
+reqPerServerCount 20
+defaultEdge count0 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816b,
+  zone: 'New Delhi',
+  la: 28.64,
+  lo: 77.21,
+  url: '../edgeservers/',
+  bucket: 'e1-server',
+  __v: 0
+}
+start 4
+end 20
+Content of file css/responsive.css
+Round Robin algorithm selected Edge Server New Delhi
+reqCounter 4
+reqPerServerCount 20
+defaultEdge count0 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816b,
+  zone: 'New Delhi',
+  la: 28.64,
+  lo: 77.21,
+  url: '../edgeservers/',
+  bucket: 'e1-server',
+  __v: 0
+}
+start 5
+end 20
+Content of file css/jquery.mCustomScrollbar.min.css
+Round Robin algorithm selected Edge Server New Delhi
+reqCounter 5
+reqPerServerCount 20
+defaultEdge count0 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816b,
+  zone: 'New Delhi',
+  la: 28.64,
+  lo: 77.21,
+  url: '../edgeservers/',
+  bucket: 'e1-server',
+  __v: 0
+}
+start 6
+end 20
+Content of file css/owl.carousel.min.css
+Round Robin algorithm selected Edge Server New Delhi
+reqCounter 6
+reqPerServerCount 20
+defaultEdge count0 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816b,
+  zone: 'New Delhi',
+  la: 28.64,
+  lo: 77.21,
+  url: '../edgeservers/',
+  bucket: 'e1-server',
+  __v: 0
+}
+start 7
+end 20
+Content of file css/owl.theme.default.min.css
+Round Robin algorithm selected Edge Server New Delhi
+reqCounter 7
+reqPerServerCount 20
+defaultEdge count0 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816b,
+  zone: 'New Delhi',
+  la: 28.64,
+  lo: 77.21,
+  url: '../edgeservers/',
+  bucket: 'e1-server',
+  __v: 0
+}
+start 8
+end 20
+Content of file images/logo.png
+Round Robin algorithm selected Edge Server New Delhi
+reqCounter 8
+reqPerServerCount 20
+defaultEdge count0 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816b,
+  zone: 'New Delhi',
+  la: 28.64,
+  lo: 77.21,
+  url: '../edgeservers/',
+  bucket: 'e1-server',
+  __v: 0
+}
+start 9
+end 20
+Content of file images/fb-icon.png
+Round Robin algorithm selected Edge Server New Delhi
+reqCounter 9
+reqPerServerCount 20
+defaultEdge count0 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816b,
+  zone: 'New Delhi',
+  la: 28.64,
+  lo: 77.21,
+  url: '../edgeservers/',
+  bucket: 'e1-server',
+  __v: 0
+}
+start 10
+end 20
+Content of file images/twitter-icon.png
+Round Robin algorithm selected Edge Server New Delhi
+reqCounter 10
+reqPerServerCount 20
+defaultEdge count0 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816b,
+  zone: 'New Delhi',
+  la: 28.64,
+  lo: 77.21,
+  url: '../edgeservers/',
+  bucket: 'e1-server',
+  __v: 0
+}
+start 11
+end 20
+Content of file js/jquery.min.js
+Round Robin algorithm selected Edge Server New Delhi
+reqCounter 11
+reqPerServerCount 20
+defaultEdge count0 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816b,
+  zone: 'New Delhi',
+  la: 28.64,
+  lo: 77.21,
+  url: '../edgeservers/',
+  bucket: 'e1-server',
+  __v: 0
+}
+start 12
+end 20
+Content of file images/instagram-icon.png
+Round Robin algorithm selected Edge Server New Delhi
+reqCounter 12
+reqPerServerCount 20
+defaultEdge count0 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816b,
+  zone: 'New Delhi',
+  la: 28.64,
+  lo: 77.21,
+  url: '../edgeservers/',
+  bucket: 'e1-server',
+  __v: 0
+}
+start 13
+end 20
+Content of file js/jquery-3.0.0.min.js
+Round Robin algorithm selected Edge Server New Delhi
+reqCounter 13
+reqPerServerCount 20
+defaultEdge count0 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816b,
+  zone: 'New Delhi',
+  la: 28.64,
+  lo: 77.21,
+  url: '../edgeservers/',
+  bucket: 'e1-server',
+  __v: 0
+}
+start 14
+end 20
+Content of file js/jquery.mCustomScrollbar.concat.min.js
+Round Robin algorithm selected Edge Server New Delhi
+reqCounter 14
+reqPerServerCount 20
+defaultEdge count0 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816b,
+  zone: 'New Delhi',
+  la: 28.64,
+  lo: 77.21,
+  url: '../edgeservers/',
+  bucket: 'e1-server',
+  __v: 0
+}
+start 15
+end 20
+Content of file videos/video1.mp4
+Round Robin algorithm selected Edge Server New Delhi
+reqCounter 15
+reqPerServerCount 20
+defaultEdge count0 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816b,
+  zone: 'New Delhi',
+  la: 28.64,
+  lo: 77.21,
+  url: '../edgeservers/',
+  bucket: 'e1-server',
+  __v: 0
+}
+start 16
+end 20
+Content of file images/linkedin-icon.png
+Round Robin algorithm selected Edge Server New Delhi
+reqCounter 16
+reqPerServerCount 20
+defaultEdge count0 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816b,
+  zone: 'New Delhi',
+  la: 28.64,
+  lo: 77.21,
+  url: '../edgeservers/',
+  bucket: 'e1-server',
+  __v: 0
+}
+start 17
+end 20
+Content of file js/popper.min.js
+Round Robin algorithm selected Edge Server New Delhi
+reqCounter 17
+reqPerServerCount 20
+defaultEdge count0 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816b,
+  zone: 'New Delhi',
+  la: 28.64,
+  lo: 77.21,
+  url: '../edgeservers/',
+  bucket: 'e1-server',
+  __v: 0
+}
+start 18
+end 20
+Content of file js/bootstrap.bundle.min.js
+Round Robin algorithm selected Edge Server New Delhi
+reqCounter 18
+reqPerServerCount 20
+defaultEdge count0 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816b,
+  zone: 'New Delhi',
+  la: 28.64,
+  lo: 77.21,
+  url: '../edgeservers/',
+  bucket: 'e1-server',
+  __v: 0
+}
+start 19
+end 20
+Content of file js/plugin.js
+Round Robin algorithm selected Edge Server New Delhi
+reqCounter 19
+reqPerServerCount 20
+defaultEdge count1 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816c,
+  zone: 'Berlin',
+  la: 52.52,
+  lo: 13.4,
+  url: '../edgeservers/',
+  bucket: 'e2-server',
+  __v: 0
+}
+start 20
+end 40
+Content of file js/custom.js
+Round Robin algorithm selected Edge Server Berlin
+File is available
+css/bootstrap.min.css is served from New Delhi edge server successfully
+Origin File Name: css/bootstrap.min.css
+Type of file: text/css
+fileName css/bootstrap.min.css
+contentType text/css
+File is available
+css/style.css is served from New Delhi edge server successfully
+Origin File Name: css/style.css
+Type of file: text/css
+fileName css/style.css
+contentType text/css
+File is available
+css/responsive.css is served from New Delhi edge server successfully
+Origin File Name: css/responsive.css
+Type of file: text/css
+fileName css/responsive.css
+contentType text/css
+File is available
+css/owl.carousel.min.css is served from New Delhi edge server successfully
+Origin File Name: css/owl.carousel.min.css
+Type of file: text/css
+fileName css/owl.carousel.min.css
+contentType text/css
+File is available
+css/jquery.mCustomScrollbar.min.css is served from New Delhi edge server successfully
+Origin File Name: css/jquery.mCustomScrollbar.min.css
+Type of file: text/css
+fileName css/jquery.mCustomScrollbar.min.css
+contentType text/css
+File is available
+css/owl.theme.default.min.css is served from New Delhi edge server successfully
+Origin File Name: css/owl.theme.default.min.css
+Type of file: text/css
+fileName css/owl.theme.default.min.css
+contentType text/css
+File is available
+images/fb-icon.png is served from New Delhi edge server successfully
+Origin File Name: images/fb-icon.png
+Type of file: image/png
+fileName images/fb-icon.png
+contentType image/png
+File is available
+js/jquery.min.js is served from New Delhi edge server successfully
+Origin File Name: js/jquery.min.js
+Type of file: application/javascript
+fileName js/jquery.min.js
+contentType application/javascript
+File is available
+js/jquery-3.0.0.min.js is served from New Delhi edge server successfully
+Origin File Name: js/jquery-3.0.0.min.js
+Type of file: application/javascript
+fileName js/jquery-3.0.0.min.js
+contentType application/javascript
+File is available
+js/custom.js is served from Berlin edge server successfully
+Origin File Name: js/custom.js
+Type of file: application/javascript
+fileName js/custom.js
+contentType application/javascript
+File successfully downloaded to ..\edgeservers\e1-server\images\logo.png
+File successfully downloaded to ..\edgeservers\e1-server\images\twitter-icon.png
+File successfully downloaded to ..\edgeservers\e1-server\images\instagram-icon.png
+File successfully downloaded to ..\edgeservers\e1-server\images\linkedin-icon.png
+File successfully downloaded to ..\edgeservers\e1-server\js\popper.min.js
+images/logo.png is served from New Delhi edge server successfully
+Origin File Name: images/logo.png
+Type of file: image/png
+fileName images/logo.png
+contentType image/png
+images/twitter-icon.png is served from New Delhi edge server successfully
+Origin File Name: images/twitter-icon.png
+Type of file: image/png
+fileName images/twitter-icon.png
+contentType image/png
+images/instagram-icon.png is served from New Delhi edge server successfully
+Origin File Name: images/instagram-icon.png
+Type of file: image/png
+fileName images/instagram-icon.png
+contentType image/png
+images/linkedin-icon.png is served from New Delhi edge server successfully
+Origin File Name: images/linkedin-icon.png
+Type of file: image/png
+fileName images/linkedin-icon.png
+contentType image/png
+File successfully downloaded to ..\edgeservers\e1-server\js\jquery.mCustomScrollbar.concat.min.js
+js/popper.min.js is served from New Delhi edge server successfully
+Origin File Name: js/popper.min.js
+Type of file: application/javascript
+fileName js/popper.min.js
+contentType application/javascript
+js/jquery.mCustomScrollbar.concat.min.js is served from New Delhi edge server successfully
+Origin File Name: js/jquery.mCustomScrollbar.concat.min.js
+Type of file: application/javascript
+fileName js/jquery.mCustomScrollbar.concat.min.js
+contentType application/javascript
+File successfully downloaded to ..\edgeservers\e1-server\js\bootstrap.bundle.min.js
+js/bootstrap.bundle.min.js is served from New Delhi edge server successfully
+Origin File Name: js/bootstrap.bundle.min.js
+Type of file: application/javascript
+fileName js/bootstrap.bundle.min.js
+contentType application/javascript
+File successfully downloaded to ..\edgeservers\e1-server\js\plugin.js
+js/plugin.js is served from New Delhi edge server successfully
+Origin File Name: js/plugin.js
+Type of file: application/javascript
+fileName js/plugin.js
+contentType application/javascript
+File successfully downloaded to ..\edgeservers\e1-server\videos\video1.mp4
+videos/video1.mp4 is served from New Delhi edge server successfully
+Origin File Name: videos/video1.mp4
+Type of file: video/mp4
+fileName videos/video1.mp4
+contentType video/mp4
+reqCounter 20
+reqPerServerCount 20
+defaultEdge count1 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816c,
+  zone: 'Berlin',
+  la: 52.52,
+  lo: 13.4,
+  url: '../edgeservers/',
+  bucket: 'e2-server',
+  __v: 0
+}
+start 21
+end 40
+Content of file videos/video1.mp4
+Round Robin algorithm selected Edge Server Berlin
+File is available
+videos/video1.mp4 is served from Berlin edge server successfully
+Origin File Name: videos/video1.mp4
+Type of file: video/mp4
+fileName videos/video1.mp4
+contentType video/mp4
+reqCounter 21
+reqPerServerCount 20
+defaultEdge count1 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816c,
+  zone: 'Berlin',
+  la: 52.52,
+  lo: 13.4,
+  url: '../edgeservers/',
+  bucket: 'e2-server',
+  __v: 0
+}
+start 22
+end 40
+Content of file images/fevicon.png
+Round Robin algorithm selected Edge Server Berlin
+File successfully downloaded to ..\edgeservers\e2-server\images\fevicon.png
+images/fevicon.png is served from Berlin edge server successfully
+Origin File Name: images/fevicon.png
+Type of file: image/png
+fileName images/fevicon.png
+contentType image/png
+Controller listening on port 3001
+reqCounter 1
+reqPerServerCount 2
+defaultEdge count1 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816c,
+  zone: 'Berlin',
+  la: 52.52,
+  lo: 13.4,
+  url: '../edgeservers/',
+  bucket: 'e2-server',
+  __v: 0
+}
+start 2
+end 4
+Content of file css/bootstrap.min.css
+Round Robin algorithm selected Edge Server Berlin
+reqCounter 2
+reqPerServerCount 2
+defaultEdge count1 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816c,
+  zone: 'Berlin',
+  la: 52.52,
+  lo: 13.4,
+  url: '../edgeservers/',
+  bucket: 'e2-server',
+  __v: 0
+}
+start 3
+end 4
+Content of file js/bootstrap.bundle.min.js
+Round Robin algorithm selected Edge Server Berlin
+reqCounter 3
+reqPerServerCount 2
+defaultEdge count2 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816d,
+  zone: 'Montreal',
+  la: 45.5,
+  lo: -73.56,
+  url: '../edgeservers/',
+  bucket: 'e3-server',
+  __v: 0
+}
+start 4
+end 6
+Content of file js/jquery.mCustomScrollbar.concat.min.js
+Round Robin algorithm selected Edge Server Montreal
+Controller listening on port 3001
+reqCounter 1
+reqPerServerCount 4
+defaultEdge count0 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816b,
+  zone: 'New Delhi',
+  la: 28.64,
+  lo: 77.21,
+  url: '../edgeservers/',
+  bucket: 'e1-server',
+  __v: 0
+}
+start 2
+end 4
+Content of file css/bootstrap.min.css
+Round Robin algorithm selected Edge Server New Delhi
+reqCounter 2
+reqPerServerCount 4
+defaultEdge count0 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816b,
+  zone: 'New Delhi',
+  la: 28.64,
+  lo: 77.21,
+  url: '../edgeservers/',
+  bucket: 'e1-server',
+  __v: 0
+}
+start 3
+end 4
+Content of file css/style.css
+Round Robin algorithm selected Edge Server New Delhi
+reqCounter 3
+reqPerServerCount 4
+defaultEdge count1 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816c,
+  zone: 'Berlin',
+  la: 52.52,
+  lo: 13.4,
+  url: '../edgeservers/',
+  bucket: 'e2-server',
+  __v: 0
+}
+start 4
+end 8
+Content of file css/responsive.css
+Round Robin algorithm selected Edge Server Berlin
+reqCounter 4
+reqPerServerCount 4
+defaultEdge count1 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816c,
+  zone: 'Berlin',
+  la: 52.52,
+  lo: 13.4,
+  url: '../edgeservers/',
+  bucket: 'e2-server',
+  __v: 0
+}
+start 5
+end 8
+Content of file css/jquery.mCustomScrollbar.min.css
+Round Robin algorithm selected Edge Server Berlin
+reqCounter 5
+reqPerServerCount 4
+defaultEdge count1 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816c,
+  zone: 'Berlin',
+  la: 52.52,
+  lo: 13.4,
+  url: '../edgeservers/',
+  bucket: 'e2-server',
+  __v: 0
+}
+start 6
+end 8
+Content of file css/owl.carousel.min.css
+Round Robin algorithm selected Edge Server Berlin
+reqCounter 6
+reqPerServerCount 4
+defaultEdge count1 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816c,
+  zone: 'Berlin',
+  la: 52.52,
+  lo: 13.4,
+  url: '../edgeservers/',
+  bucket: 'e2-server',
+  __v: 0
+}
+start 7
+end 8
+Content of file css/owl.theme.default.min.css
+Round Robin algorithm selected Edge Server Berlin
+reqCounter 7
+reqPerServerCount 4
+defaultEdge count2 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816d,
+  zone: 'Montreal',
+  la: 45.5,
+  lo: -73.56,
+  url: '../edgeservers/',
+  bucket: 'e3-server',
+  __v: 0
+}
+start 8
+end 12
+Content of file images/logo.png
+Round Robin algorithm selected Edge Server Montreal
+reqCounter 8
+reqPerServerCount 4
+defaultEdge count2 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816d,
+  zone: 'Montreal',
+  la: 45.5,
+  lo: -73.56,
+  url: '../edgeservers/',
+  bucket: 'e3-server',
+  __v: 0
+}
+start 9
+end 12
+Content of file images/fb-icon.png
+Round Robin algorithm selected Edge Server Montreal
+reqCounter 9
+reqPerServerCount 4
+defaultEdge count2 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816d,
+  zone: 'Montreal',
+  la: 45.5,
+  lo: -73.56,
+  url: '../edgeservers/',
+  bucket: 'e3-server',
+  __v: 0
+}
+start 10
+end 12
+Content of file js/jquery.min.js
+Round Robin algorithm selected Edge Server Montreal
+reqCounter 10
+reqPerServerCount 4
+defaultEdge count2 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816d,
+  zone: 'Montreal',
+  la: 45.5,
+  lo: -73.56,
+  url: '../edgeservers/',
+  bucket: 'e3-server',
+  __v: 0
+}
+start 11
+end 12
+Content of file images/twitter-icon.png
+Round Robin algorithm selected Edge Server Montreal
+reqCounter 11
+reqPerServerCount 4
+defaultEdge count3 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: true,
+  _id: 65754c7b9f9fe503980282d1,
+  zone: 'Munich',
+  bucket: 'e4-server',
+  la: 12.34,
+  lo: 56.78,
+  url: '../edgeservers/',
+  __v: 0
+}
+start 12
+end 21
+Content of file images/instagram-icon.png
+Round Robin algorithm selected Edge Server Munich
+reqCounter 12
+reqPerServerCount 4
+defaultEdge count3 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: true,
+  _id: 65754c7b9f9fe503980282d1,
+  zone: 'Munich',
+  bucket: 'e4-server',
+  la: 12.34,
+  lo: 56.78,
+  url: '../edgeservers/',
+  __v: 0
+}
+start 13
+end 21
+Content of file images/linkedin-icon.png
+Round Robin algorithm selected Edge Server Munich
+reqCounter 13
+reqPerServerCount 4
+defaultEdge count3 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: true,
+  _id: 65754c7b9f9fe503980282d1,
+  zone: 'Munich',
+  bucket: 'e4-server',
+  la: 12.34,
+  lo: 56.78,
+  url: '../edgeservers/',
+  __v: 0
+}
+start 14
+end 21
+Content of file js/popper.min.js
+Round Robin algorithm selected Edge Server Munich
+reqCounter 14
+reqPerServerCount 4
+defaultEdge count3 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: true,
+  _id: 65754c7b9f9fe503980282d1,
+  zone: 'Munich',
+  bucket: 'e4-server',
+  la: 12.34,
+  lo: 56.78,
+  url: '../edgeservers/',
+  __v: 0
+}
+start 15
+end 21
+Content of file js/bootstrap.bundle.min.js
+Round Robin algorithm selected Edge Server Munich
+reqCounter 15
+reqPerServerCount 4
+defaultEdge count3 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: true,
+  _id: 65754c7b9f9fe503980282d1,
+  zone: 'Munich',
+  bucket: 'e4-server',
+  la: 12.34,
+  lo: 56.78,
+  url: '../edgeservers/',
+  __v: 0
+}
+start 16
+end 21
+Content of file js/jquery-3.0.0.min.js
+Round Robin algorithm selected Edge Server Munich
+reqCounter 16
+reqPerServerCount 4
+defaultEdge count3 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: true,
+  _id: 65754c7b9f9fe503980282d1,
+  zone: 'Munich',
+  bucket: 'e4-server',
+  la: 12.34,
+  lo: 56.78,
+  url: '../edgeservers/',
+  __v: 0
+}
+start 17
+end 21
+Content of file js/plugin.js
+Round Robin algorithm selected Edge Server Munich
+reqCounter 17
+reqPerServerCount 4
+defaultEdge count3 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: true,
+  _id: 65754c7b9f9fe503980282d1,
+  zone: 'Munich',
+  bucket: 'e4-server',
+  la: 12.34,
+  lo: 56.78,
+  url: '../edgeservers/',
+  __v: 0
+}
+start 18
+end 21
+Content of file js/jquery.mCustomScrollbar.concat.min.js
+Round Robin algorithm selected Edge Server Munich
+reqCounter 18
+reqPerServerCount 4
+defaultEdge count3 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: true,
+  _id: 65754c7b9f9fe503980282d1,
+  zone: 'Munich',
+  bucket: 'e4-server',
+  la: 12.34,
+  lo: 56.78,
+  url: '../edgeservers/',
+  __v: 0
+}
+start 19
+end 21
+Content of file js/custom.js
+Round Robin algorithm selected Edge Server Munich
+reqCounter 19
+reqPerServerCount 4
+defaultEdge count3 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: true,
+  _id: 65754c7b9f9fe503980282d1,
+  zone: 'Munich',
+  bucket: 'e4-server',
+  la: 12.34,
+  lo: 56.78,
+  url: '../edgeservers/',
+  __v: 0
+}
+start 20
+end 21
+Content of file videos/video1.mp4
+Round Robin algorithm selected Edge Server Munich
+File is available
+css/bootstrap.min.css is served from New Delhi edge server successfully
+Origin File Name: css/bootstrap.min.css
+Type of file: text/css
+fileName css/bootstrap.min.css
+contentType text/css
+File is available
+css/style.css is served from New Delhi edge server successfully
+Origin File Name: css/style.css
+Type of file: text/css
+fileName css/style.css
+contentType text/css
+File is available
+css/responsive.css is served from Berlin edge server successfully
+Origin File Name: css/responsive.css
+Type of file: text/css
+fileName css/responsive.css
+contentType text/css
+File is available
+css/jquery.mCustomScrollbar.min.css is served from Berlin edge server successfully
+Origin File Name: css/jquery.mCustomScrollbar.min.css
+Type of file: text/css
+fileName css/jquery.mCustomScrollbar.min.css
+contentType text/css
+File is available
+css/owl.carousel.min.css is served from Berlin edge server successfully
+Origin File Name: css/owl.carousel.min.css
+Type of file: text/css
+fileName css/owl.carousel.min.css
+contentType text/css
+File is available
+css/owl.theme.default.min.css is served from Berlin edge server successfully
+Origin File Name: css/owl.theme.default.min.css
+Type of file: text/css
+fileName css/owl.theme.default.min.css
+contentType text/css
+File is available
+images/logo.png is served from Montreal edge server successfully
+Origin File Name: images/logo.png
+Type of file: image/png
+fileName images/logo.png
+contentType image/png
+File is available
+images/fb-icon.png is served from Montreal edge server successfully
+Origin File Name: images/fb-icon.png
+Type of file: image/png
+fileName images/fb-icon.png
+contentType image/png
+File is available
+js/jquery.min.js is served from Montreal edge server successfully
+Origin File Name: js/jquery.min.js
+Type of file: application/javascript
+fileName js/jquery.min.js
+contentType application/javascript
+File is available
+js/custom.js is served from Munich edge server successfully
+Origin File Name: js/custom.js
+Type of file: application/javascript
+fileName js/custom.js
+contentType application/javascript
+File is available
+videos/video1.mp4 is served from Munich edge server successfully
+Origin File Name: videos/video1.mp4
+Type of file: video/mp4
+fileName videos/video1.mp4
+contentType video/mp4
+File successfully downloaded to ..\edgeservers\e4-server\images\linkedin-icon.png
+File successfully downloaded to ..\edgeservers\e3-server\images\twitter-icon.png
+File successfully downloaded to ..\edgeservers\e4-server\images\instagram-icon.png
+File successfully downloaded to ..\edgeservers\e4-server\js\popper.min.js
+File successfully downloaded to ..\edgeservers\e4-server\js\jquery-3.0.0.min.js
+images/linkedin-icon.png is served from Munich edge server successfully
+Origin File Name: images/linkedin-icon.png
+Type of file: image/png
+fileName images/linkedin-icon.png
+contentType image/png
+images/twitter-icon.png is served from Montreal edge server successfully
+Origin File Name: images/twitter-icon.png
+Type of file: image/png
+fileName images/twitter-icon.png
+contentType image/png
+images/instagram-icon.png is served from Munich edge server successfully
+Origin File Name: images/instagram-icon.png
+Type of file: image/png
+fileName images/instagram-icon.png
+contentType image/png
+js/popper.min.js is served from Munich edge server successfully
+Origin File Name: js/popper.min.js
+Type of file: application/javascript
+fileName js/popper.min.js
+contentType application/javascript
+js/jquery-3.0.0.min.js is served from Munich edge server successfully
+Origin File Name: js/jquery-3.0.0.min.js
+Type of file: application/javascript
+fileName js/jquery-3.0.0.min.js
+contentType application/javascript
+File successfully downloaded to ..\edgeservers\e4-server\js\jquery.mCustomScrollbar.concat.min.js
+File successfully downloaded to ..\edgeservers\e4-server\js\bootstrap.bundle.min.js
+js/jquery.mCustomScrollbar.concat.min.js is served from Munich edge server successfully
+Origin File Name: js/jquery.mCustomScrollbar.concat.min.js
+Type of file: application/javascript
+fileName js/jquery.mCustomScrollbar.concat.min.js
+contentType application/javascript
+js/bootstrap.bundle.min.js is served from Munich edge server successfully
+Origin File Name: js/bootstrap.bundle.min.js
+Type of file: application/javascript
+fileName js/bootstrap.bundle.min.js
+contentType application/javascript
+File successfully downloaded to ..\edgeservers\e4-server\js\plugin.js
+js/plugin.js is served from Munich edge server successfully
+Origin File Name: js/plugin.js
+Type of file: application/javascript
+fileName js/plugin.js
+contentType application/javascript
+reqCounter 20
+reqPerServerCount 4
+defaultEdge count4 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: true,
+  _id: 65754ca89f9fe503980282d9,
+  zone: 'Ottawa',
+  bucket: 'e5-server',
+  la: 45.56,
+  lo: -78.65,
+  url: '../edgeservers/',
+  __v: 0
+}
+start 21
+end 25
+Content of file videos/video1.mp4
+Round Robin algorithm selected Edge Server Ottawa
+File successfully downloaded to ..\edgeservers\e5-server\videos\video1.mp4
+videos/video1.mp4 is served from Ottawa edge server successfully
+Origin File Name: videos/video1.mp4
+Type of file: video/mp4
+fileName videos/video1.mp4
+contentType video/mp4
+reqCounter 21
+reqPerServerCount 4
+defaultEdge count4 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: true,
+  _id: 65754ca89f9fe503980282d9,
+  zone: 'Ottawa',
+  bucket: 'e5-server',
+  la: 45.56,
+  lo: -78.65,
+  url: '../edgeservers/',
+  __v: 0
+}
+start 22
+end 25
+Content of file images/fevicon.png
+Round Robin algorithm selected Edge Server Ottawa
+File successfully downloaded to ..\edgeservers\e5-server\images\fevicon.png
+images/fevicon.png is served from Ottawa edge server successfully
+Origin File Name: images/fevicon.png
+Type of file: image/png
+fileName images/fevicon.png
+contentType image/png
+reqCounter 22
+reqPerServerCount 4
+defaultEdge count4 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: true,
+  _id: 65754ca89f9fe503980282d9,
+  zone: 'Ottawa',
+  bucket: 'e5-server',
+  la: 45.56,
+  lo: -78.65,
+  url: '../edgeservers/',
+  __v: 0
+}
+start 23
+end 25
+Content of file css/style.css
+Round Robin algorithm selected Edge Server Ottawa
+reqCounter 1
+reqPerServerCount 4
+defaultEdge count0 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816b,
+  zone: 'New Delhi',
+  la: 28.64,
+  lo: 77.21,
+  url: '../edgeservers/',
+  bucket: 'e1-server',
+  __v: 0
+}
+start 2
+end 4
+Content of file js/jquery-3.0.0.min.js
+Round Robin algorithm selected Edge Server New Delhi
+reqCounter 2
+reqPerServerCount 4
+defaultEdge count0 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816b,
+  zone: 'New Delhi',
+  la: 28.64,
+  lo: 77.21,
+  url: '../edgeservers/',
+  bucket: 'e1-server',
+  __v: 0
+}
+start 3
+end 4
+Content of file css/bootstrap.min.css
+Round Robin algorithm selected Edge Server New Delhi
+reqCounter 3
+reqPerServerCount 4
+defaultEdge count1 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816c,
+  zone: 'Berlin',
+  la: 52.52,
+  lo: 13.4,
+  url: '../edgeservers/',
+  bucket: 'e2-server',
+  __v: 0
+}
+start 4
+end 8
+Content of file css/responsive.css
+Round Robin algorithm selected Edge Server Berlin
+reqCounter 4
+reqPerServerCount 4
+defaultEdge count1 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816c,
+  zone: 'Berlin',
+  la: 52.52,
+  lo: 13.4,
+  url: '../edgeservers/',
+  bucket: 'e2-server',
+  __v: 0
+}
+start 5
+end 8
+Content of file css/jquery.mCustomScrollbar.min.css
+Round Robin algorithm selected Edge Server Berlin
+reqCounter 5
+reqPerServerCount 4
+defaultEdge count1 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816c,
+  zone: 'Berlin',
+  la: 52.52,
+  lo: 13.4,
+  url: '../edgeservers/',
+  bucket: 'e2-server',
+  __v: 0
+}
+start 6
+end 8
+Content of file css/owl.carousel.min.css
+Round Robin algorithm selected Edge Server Berlin
+reqCounter 6
+reqPerServerCount 4
+defaultEdge count1 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816c,
+  zone: 'Berlin',
+  la: 52.52,
+  lo: 13.4,
+  url: '../edgeservers/',
+  bucket: 'e2-server',
+  __v: 0
+}
+start 7
+end 8
+Content of file css/owl.theme.default.min.css
+Round Robin algorithm selected Edge Server Berlin
+reqCounter 7
+reqPerServerCount 4
+defaultEdge count2 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816d,
+  zone: 'Montreal',
+  la: 45.5,
+  lo: -73.56,
+  url: '../edgeservers/',
+  bucket: 'e3-server',
+  __v: 0
+}
+start 8
+end 12
+Content of file images/logo.png
+Round Robin algorithm selected Edge Server Montreal
+reqCounter 8
+reqPerServerCount 4
+defaultEdge count2 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816d,
+  zone: 'Montreal',
+  la: 45.5,
+  lo: -73.56,
+  url: '../edgeservers/',
+  bucket: 'e3-server',
+  __v: 0
+}
+start 9
+end 12
+Content of file images/fb-icon.png
+Round Robin algorithm selected Edge Server Montreal
+reqCounter 9
+reqPerServerCount 4
+defaultEdge count2 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816d,
+  zone: 'Montreal',
+  la: 45.5,
+  lo: -73.56,
+  url: '../edgeservers/',
+  bucket: 'e3-server',
+  __v: 0
+}
+start 10
+end 12
+Content of file js/jquery.min.js
+Round Robin algorithm selected Edge Server Montreal
+reqCounter 10
+reqPerServerCount 4
+defaultEdge count2 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816d,
+  zone: 'Montreal',
+  la: 45.5,
+  lo: -73.56,
+  url: '../edgeservers/',
+  bucket: 'e3-server',
+  __v: 0
+}
+start 11
+end 12
+Content of file images/twitter-icon.png
+Round Robin algorithm selected Edge Server Montreal
+reqCounter 11
+reqPerServerCount 4
+defaultEdge count3 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: true,
+  _id: 65754c7b9f9fe503980282d1,
+  zone: 'Munich',
+  bucket: 'e4-server',
+  la: 12.34,
+  lo: 56.78,
+  url: '../edgeservers/',
+  __v: 0
+}
+start 12
+end 21
+Content of file images/instagram-icon.png
+Round Robin algorithm selected Edge Server Munich
+reqCounter 12
+reqPerServerCount 4
+defaultEdge count3 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: true,
+  _id: 65754c7b9f9fe503980282d1,
+  zone: 'Munich',
+  bucket: 'e4-server',
+  la: 12.34,
+  lo: 56.78,
+  url: '../edgeservers/',
+  __v: 0
+}
+start 13
+end 21
+Content of file images/linkedin-icon.png
+Round Robin algorithm selected Edge Server Munich
+reqCounter 13
+reqPerServerCount 4
+defaultEdge count3 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: true,
+  _id: 65754c7b9f9fe503980282d1,
+  zone: 'Munich',
+  bucket: 'e4-server',
+  la: 12.34,
+  lo: 56.78,
+  url: '../edgeservers/',
+  __v: 0
+}
+start 14
+end 21
+Content of file js/popper.min.js
+Round Robin algorithm selected Edge Server Munich
+reqCounter 14
+reqPerServerCount 4
+defaultEdge count3 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: true,
+  _id: 65754c7b9f9fe503980282d1,
+  zone: 'Munich',
+  bucket: 'e4-server',
+  la: 12.34,
+  lo: 56.78,
+  url: '../edgeservers/',
+  __v: 0
+}
+start 15
+end 21
+Content of file js/bootstrap.bundle.min.js
+Round Robin algorithm selected Edge Server Munich
+reqCounter 15
+reqPerServerCount 4
+defaultEdge count3 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: true,
+  _id: 65754c7b9f9fe503980282d1,
+  zone: 'Munich',
+  bucket: 'e4-server',
+  la: 12.34,
+  lo: 56.78,
+  url: '../edgeservers/',
+  __v: 0
+}
+start 16
+end 21
+Content of file js/plugin.js
+Round Robin algorithm selected Edge Server Munich
+reqCounter 16
+reqPerServerCount 4
+defaultEdge count3 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: true,
+  _id: 65754c7b9f9fe503980282d1,
+  zone: 'Munich',
+  bucket: 'e4-server',
+  la: 12.34,
+  lo: 56.78,
+  url: '../edgeservers/',
+  __v: 0
+}
+start 17
+end 21
+Content of file js/jquery.mCustomScrollbar.concat.min.js
+Round Robin algorithm selected Edge Server Munich
+reqCounter 17
+reqPerServerCount 4
+defaultEdge count3 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: true,
+  _id: 65754c7b9f9fe503980282d1,
+  zone: 'Munich',
+  bucket: 'e4-server',
+  la: 12.34,
+  lo: 56.78,
+  url: '../edgeservers/',
+  __v: 0
+}
+start 18
+end 21
+Content of file js/custom.js
+Round Robin algorithm selected Edge Server Munich
+reqCounter 18
+reqPerServerCount 4
+defaultEdge count3 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: true,
+  _id: 65754c7b9f9fe503980282d1,
+  zone: 'Munich',
+  bucket: 'e4-server',
+  la: 12.34,
+  lo: 56.78,
+  url: '../edgeservers/',
+  __v: 0
+}
+start 19
+end 21
+Content of file videos/video1.mp4
+Round Robin algorithm selected Edge Server Munich
+File is available
+js/jquery-3.0.0.min.js is served from New Delhi edge server successfully
+Origin File Name: js/jquery-3.0.0.min.js
+Type of file: application/javascript
+fileName js/jquery-3.0.0.min.js
+contentType application/javascript
+File is available
+css/bootstrap.min.css is served from New Delhi edge server successfully
+Origin File Name: css/bootstrap.min.css
+Type of file: text/css
+fileName css/bootstrap.min.css
+contentType text/css
+File is available
+css/responsive.css is served from Berlin edge server successfully
+Origin File Name: css/responsive.css
+Type of file: text/css
+fileName css/responsive.css
+contentType text/css
+File is available
+css/jquery.mCustomScrollbar.min.css is served from Berlin edge server successfully
+Origin File Name: css/jquery.mCustomScrollbar.min.css
+Type of file: text/css
+fileName css/jquery.mCustomScrollbar.min.css
+contentType text/css
+File is available
+css/owl.carousel.min.css is served from Berlin edge server successfully
+Origin File Name: css/owl.carousel.min.css
+Type of file: text/css
+fileName css/owl.carousel.min.css
+contentType text/css
+File is available
+js/bootstrap.bundle.min.js is served from Munich edge server successfully
+Origin File Name: js/bootstrap.bundle.min.js
+Type of file: application/javascript
+fileName js/bootstrap.bundle.min.js
+contentType application/javascript
+File is available
+css/owl.theme.default.min.css is served from Berlin edge server successfully
+Origin File Name: css/owl.theme.default.min.css
+Type of file: text/css
+fileName css/owl.theme.default.min.css
+contentType text/css
+File is available
+images/logo.png is served from Montreal edge server successfully
+Origin File Name: images/logo.png
+Type of file: image/png
+fileName images/logo.png
+contentType image/png
+File is available
+images/fb-icon.png is served from Montreal edge server successfully
+Origin File Name: images/fb-icon.png
+Type of file: image/png
+fileName images/fb-icon.png
+contentType image/png
+File is available
+js/jquery.min.js is served from Montreal edge server successfully
+Origin File Name: js/jquery.min.js
+Type of file: application/javascript
+fileName js/jquery.min.js
+contentType application/javascript
+File is available
+images/twitter-icon.png is served from Montreal edge server successfully
+Origin File Name: images/twitter-icon.png
+Type of file: image/png
+fileName images/twitter-icon.png
+contentType image/png
+File is available
+images/instagram-icon.png is served from Munich edge server successfully
+Origin File Name: images/instagram-icon.png
+Type of file: image/png
+fileName images/instagram-icon.png
+contentType image/png
+File is available
+images/linkedin-icon.png is served from Munich edge server successfully
+Origin File Name: images/linkedin-icon.png
+Type of file: image/png
+fileName images/linkedin-icon.png
+contentType image/png
+File is available
+js/popper.min.js is served from Munich edge server successfully
+Origin File Name: js/popper.min.js
+Type of file: application/javascript
+fileName js/popper.min.js
+contentType application/javascript
+File is available
+js/plugin.js is served from Munich edge server successfully
+Origin File Name: js/plugin.js
+Type of file: application/javascript
+fileName js/plugin.js
+contentType application/javascript
+File is available
+js/jquery.mCustomScrollbar.concat.min.js is served from Munich edge server successfully
+Origin File Name: js/jquery.mCustomScrollbar.concat.min.js
+Type of file: application/javascript
+fileName js/jquery.mCustomScrollbar.concat.min.js
+contentType application/javascript
+File is available
+js/custom.js is served from Munich edge server successfully
+Origin File Name: js/custom.js
+Type of file: application/javascript
+fileName js/custom.js
+contentType application/javascript
+File is available
+videos/video1.mp4 is served from Munich edge server successfully
+Origin File Name: videos/video1.mp4
+Type of file: video/mp4
+fileName videos/video1.mp4
+contentType video/mp4
+File successfully downloaded to ..\edgeservers\e5-server\css\style.css
+css/style.css is served from Ottawa edge server successfully
+Origin File Name: css/style.css
+Type of file: text/css
+fileName css/style.css
+contentType text/css
+reqCounter 19
+reqPerServerCount 4
+defaultEdge count3 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: true,
+  _id: 65754c7b9f9fe503980282d1,
+  zone: 'Munich',
+  bucket: 'e4-server',
+  la: 12.34,
+  lo: 56.78,
+  url: '../edgeservers/',
+  __v: 0
+}
+start 20
+end 21
+Content of file images/fevicon.png
+Round Robin algorithm selected Edge Server Munich
+File is available
+images/fevicon.png is served from Munich edge server successfully
+Origin File Name: images/fevicon.png
+Type of file: image/png
+fileName images/fevicon.png
+contentType image/png
+reqCounter 20
+reqPerServerCount 4
+defaultEdge count4 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: true,
+  _id: 65754ca89f9fe503980282d9,
+  zone: 'Ottawa',
+  bucket: 'e5-server',
+  la: 45.56,
+  lo: -78.65,
+  url: '../edgeservers/',
+  __v: 0
+}
+start 21
+end 25
+Content of file js/custom.js
+Round Robin algorithm selected Edge Server Ottawa
+reqCounter 21
+reqPerServerCount 4
+defaultEdge count4 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: true,
+  _id: 65754ca89f9fe503980282d9,
+  zone: 'Ottawa',
+  bucket: 'e5-server',
+  la: 45.56,
+  lo: -78.65,
+  url: '../edgeservers/',
+  __v: 0
+}
+start 22
+end 25
+Content of file css/bootstrap.min.css
+Round Robin algorithm selected Edge Server Ottawa
+reqCounter 22
+reqPerServerCount 4
+defaultEdge count4 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: true,
+  _id: 65754ca89f9fe503980282d9,
+  zone: 'Ottawa',
+  bucket: 'e5-server',
+  la: 45.56,
+  lo: -78.65,
+  url: '../edgeservers/',
+  __v: 0
+}
+start 23
+end 25
+Content of file css/style.css
+Round Robin algorithm selected Edge Server Ottawa
+reqCounter 1
+reqPerServerCount 4
+defaultEdge count0 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816b,
+  zone: 'New Delhi',
+  la: 28.64,
+  lo: 77.21,
+  url: '../edgeservers/',
+  bucket: 'e1-server',
+  __v: 0
+}
+start 2
+end 4
+Content of file css/responsive.css
+Round Robin algorithm selected Edge Server New Delhi
+reqCounter 2
+reqPerServerCount 4
+defaultEdge count0 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816b,
+  zone: 'New Delhi',
+  la: 28.64,
+  lo: 77.21,
+  url: '../edgeservers/',
+  bucket: 'e1-server',
+  __v: 0
+}
+start 3
+end 4
+Content of file css/jquery.mCustomScrollbar.min.css
+Round Robin algorithm selected Edge Server New Delhi
+reqCounter 3
+reqPerServerCount 4
+defaultEdge count1 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816c,
+  zone: 'Berlin',
+  la: 52.52,
+  lo: 13.4,
+  url: '../edgeservers/',
+  bucket: 'e2-server',
+  __v: 0
+}
+start 4
+end 8
+Content of file css/owl.carousel.min.css
+Round Robin algorithm selected Edge Server Berlin
+reqCounter 4
+reqPerServerCount 4
+defaultEdge count1 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816c,
+  zone: 'Berlin',
+  la: 52.52,
+  lo: 13.4,
+  url: '../edgeservers/',
+  bucket: 'e2-server',
+  __v: 0
+}
+start 5
+end 8
+Content of file css/owl.theme.default.min.css
+Round Robin algorithm selected Edge Server Berlin
+reqCounter 5
+reqPerServerCount 4
+defaultEdge count1 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816c,
+  zone: 'Berlin',
+  la: 52.52,
+  lo: 13.4,
+  url: '../edgeservers/',
+  bucket: 'e2-server',
+  __v: 0
+}
+start 6
+end 8
+Content of file images/logo.png
+Round Robin algorithm selected Edge Server Berlin
+reqCounter 6
+reqPerServerCount 4
+defaultEdge count1 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816c,
+  zone: 'Berlin',
+  la: 52.52,
+  lo: 13.4,
+  url: '../edgeservers/',
+  bucket: 'e2-server',
+  __v: 0
+}
+start 7
+end 8
+Content of file images/fb-icon.png
+Round Robin algorithm selected Edge Server Berlin
+reqCounter 7
+reqPerServerCount 4
+defaultEdge count2 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816d,
+  zone: 'Montreal',
+  la: 45.5,
+  lo: -73.56,
+  url: '../edgeservers/',
+  bucket: 'e3-server',
+  __v: 0
+}
+start 8
+end 12
+Content of file images/twitter-icon.png
+Round Robin algorithm selected Edge Server Montreal
+reqCounter 8
+reqPerServerCount 4
+defaultEdge count2 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816d,
+  zone: 'Montreal',
+  la: 45.5,
+  lo: -73.56,
+  url: '../edgeservers/',
+  bucket: 'e3-server',
+  __v: 0
+}
+start 9
+end 12
+Content of file images/instagram-icon.png
+Round Robin algorithm selected Edge Server Montreal
+reqCounter 9
+reqPerServerCount 4
+defaultEdge count2 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816d,
+  zone: 'Montreal',
+  la: 45.5,
+  lo: -73.56,
+  url: '../edgeservers/',
+  bucket: 'e3-server',
+  __v: 0
+}
+start 10
+end 12
+Content of file images/linkedin-icon.png
+Round Robin algorithm selected Edge Server Montreal
+reqCounter 10
+reqPerServerCount 4
+defaultEdge count2 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: false,
+  _id: 657545359f9fe5039802816d,
+  zone: 'Montreal',
+  la: 45.5,
+  lo: -73.56,
+  url: '../edgeservers/',
+  bucket: 'e3-server',
+  __v: 0
+}
+start 11
+end 12
+Content of file js/jquery.min.js
+Round Robin algorithm selected Edge Server Montreal
+reqCounter 11
+reqPerServerCount 4
+defaultEdge count3 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: true,
+  _id: 65754c7b9f9fe503980282d1,
+  zone: 'Munich',
+  bucket: 'e4-server',
+  la: 12.34,
+  lo: 56.78,
+  url: '../edgeservers/',
+  __v: 0
+}
+start 12
+end 21
+Content of file js/popper.min.js
+Round Robin algorithm selected Edge Server Munich
+reqCounter 12
+reqPerServerCount 4
+defaultEdge count3 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: true,
+  _id: 65754c7b9f9fe503980282d1,
+  zone: 'Munich',
+  bucket: 'e4-server',
+  la: 12.34,
+  lo: 56.78,
+  url: '../edgeservers/',
+  __v: 0
+}
+start 13
+end 21
+Content of file js/bootstrap.bundle.min.js
+Round Robin algorithm selected Edge Server Munich
+reqCounter 13
+reqPerServerCount 4
+defaultEdge count3 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: true,
+  _id: 65754c7b9f9fe503980282d1,
+  zone: 'Munich',
+  bucket: 'e4-server',
+  la: 12.34,
+  lo: 56.78,
+  url: '../edgeservers/',
+  __v: 0
+}
+start 14
+end 21
+Content of file js/jquery-3.0.0.min.js
+Round Robin algorithm selected Edge Server Munich
+reqCounter 14
+reqPerServerCount 4
+defaultEdge count3 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: true,
+  _id: 65754c7b9f9fe503980282d1,
+  zone: 'Munich',
+  bucket: 'e4-server',
+  la: 12.34,
+  lo: 56.78,
+  url: '../edgeservers/',
+  __v: 0
+}
+start 15
+end 21
+Content of file js/plugin.js
+Round Robin algorithm selected Edge Server Munich
+reqCounter 15
+reqPerServerCount 4
+defaultEdge count3 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: true,
+  _id: 65754c7b9f9fe503980282d1,
+  zone: 'Munich',
+  bucket: 'e4-server',
+  la: 12.34,
+  lo: 56.78,
+  url: '../edgeservers/',
+  __v: 0
+}
+start 16
+end 21
+Content of file js/jquery.mCustomScrollbar.concat.min.js
+Round Robin algorithm selected Edge Server Munich
+reqCounter 16
+reqPerServerCount 4
+defaultEdge count3 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: true,
+  _id: 65754c7b9f9fe503980282d1,
+  zone: 'Munich',
+  bucket: 'e4-server',
+  la: 12.34,
+  lo: 56.78,
+  url: '../edgeservers/',
+  __v: 0
+}
+start 17
+end 21
+Content of file videos/video1.mp4
+Round Robin algorithm selected Edge Server Munich
+File is available
+css/style.css is served from Ottawa edge server successfully
+Origin File Name: css/style.css
+Type of file: text/css
+fileName css/style.css
+contentType text/css
+File is available
+css/responsive.css is served from New Delhi edge server successfully
+Origin File Name: css/responsive.css
+Type of file: text/css
+fileName css/responsive.css
+contentType text/css
+File is available
+css/jquery.mCustomScrollbar.min.css is served from New Delhi edge server successfully
+Origin File Name: css/jquery.mCustomScrollbar.min.css
+Type of file: text/css
+fileName css/jquery.mCustomScrollbar.min.css
+contentType text/css
+File is available
+css/owl.carousel.min.css is served from Berlin edge server successfully
+Origin File Name: css/owl.carousel.min.css
+Type of file: text/css
+fileName css/owl.carousel.min.css
+contentType text/css
+File is available
+css/owl.theme.default.min.css is served from Berlin edge server successfully
+Origin File Name: css/owl.theme.default.min.css
+Type of file: text/css
+fileName css/owl.theme.default.min.css
+contentType text/css
+File is available
+images/logo.png is served from Berlin edge server successfully
+Origin File Name: images/logo.png
+Type of file: image/png
+fileName images/logo.png
+contentType image/png
+File is available
+images/fb-icon.png is served from Berlin edge server successfully
+Origin File Name: images/fb-icon.png
+Type of file: image/png
+fileName images/fb-icon.png
+contentType image/png
+File is available
+images/twitter-icon.png is served from Montreal edge server successfully
+Origin File Name: images/twitter-icon.png
+Type of file: image/png
+fileName images/twitter-icon.png
+contentType image/png
+File is available
+images/instagram-icon.png is served from Montreal edge server successfully
+Origin File Name: images/instagram-icon.png
+Type of file: image/png
+fileName images/instagram-icon.png
+contentType image/png
+File is available
+images/linkedin-icon.png is served from Montreal edge server successfully
+Origin File Name: images/linkedin-icon.png
+Type of file: image/png
+fileName images/linkedin-icon.png
+contentType image/png
+File is available
+js/jquery.min.js is served from Montreal edge server successfully
+Origin File Name: js/jquery.min.js
+Type of file: application/javascript
+fileName js/jquery.min.js
+contentType application/javascript
+File is available
+js/popper.min.js is served from Munich edge server successfully
+Origin File Name: js/popper.min.js
+Type of file: application/javascript
+fileName js/popper.min.js
+contentType application/javascript
+File is available
+js/bootstrap.bundle.min.js is served from Munich edge server successfully
+Origin File Name: js/bootstrap.bundle.min.js
+Type of file: application/javascript
+fileName js/bootstrap.bundle.min.js
+contentType application/javascript
+File is available
+js/jquery-3.0.0.min.js is served from Munich edge server successfully
+Origin File Name: js/jquery-3.0.0.min.js
+Type of file: application/javascript
+fileName js/jquery-3.0.0.min.js
+contentType application/javascript
+File is available
+js/plugin.js is served from Munich edge server successfully
+Origin File Name: js/plugin.js
+Type of file: application/javascript
+fileName js/plugin.js
+contentType application/javascript
+File is available
+js/jquery.mCustomScrollbar.concat.min.js is served from Munich edge server successfully
+Origin File Name: js/jquery.mCustomScrollbar.concat.min.js
+Type of file: application/javascript
+fileName js/jquery.mCustomScrollbar.concat.min.js
+contentType application/javascript
+File is available
+videos/video1.mp4 is served from Munich edge server successfully
+Origin File Name: videos/video1.mp4
+Type of file: video/mp4
+fileName videos/video1.mp4
+contentType video/mp4
+File successfully downloaded to ..\edgeservers\e5-server\js\custom.js
+js/custom.js is served from Ottawa edge server successfully
+Origin File Name: js/custom.js
+Type of file: application/javascript
+fileName js/custom.js
+contentType application/javascript
+File successfully downloaded to ..\edgeservers\e5-server\css\bootstrap.min.css
+css/bootstrap.min.css is served from Ottawa edge server successfully
+Origin File Name: css/bootstrap.min.css
+Type of file: text/css
+fileName css/bootstrap.min.css
+contentType text/css
+reqCounter 17
+reqPerServerCount 4
+defaultEdge count3 {
+  createdAt: 2023-12-10T04:57:25.401Z,
+  deletable: true,
+  _id: 65754c7b9f9fe503980282d1,
+  zone: 'Munich',
+  bucket: 'e4-server',
+  la: 12.34,
+  lo: 56.78,
+  url: '../edgeservers/',
+  __v: 0
+}
+start 18
+end 21
+Content of file images/fevicon.png
+Round Robin algorithm selected Edge Server Munich
+File is available
+images/fevicon.png is served from Munich edge server successfully
+Origin File Name: images/fevicon.png
+Type of file: image/png
+fileName images/fevicon.png
+contentType image/png
